@@ -4,7 +4,7 @@ Mostly because of legacy and final versions.
 That there will be likely a legacy/final/ai/dev version of a test-chamber containing a launch relay. (Which is good to have anyway so we will call it the copyover) and make it a management for all copyovers that occur (so it doesn't have to overcopy)
 
 Making an Excuse
-Copyover results in 00-01-03-04 Constructs being used and can be consilidated or account as.
+Copyover results in 00-01-02-03-04 Constructs being used and can be consilidated or account as.
 While used in data transfers or writing that it may be considered as a reserve-asset.
 The entirity of its usage can be prioritize for faster write-outs and data-reads (accelerated) (from compression or not)
 Can be adjusted for an expedited copyover to occur.
