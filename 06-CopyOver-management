@@ -1,4 +1,4 @@
-Copy Over Instances of Duplicate Code
+Copy Over Instances of Duplicate Code (Or Full instance of 00-06)
 I know i wrote some twice over
 Mostly because of legacy and final versions.
 That there will be likely a legacy/final/ai/dev version of a test-chamber containing a launch relay. (Which is good to have anyway so we will call it the copyover) and make it a management for all copyovers that occur (so it doesn't have to overcopy)
