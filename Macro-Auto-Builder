@@ -51,6 +51,29 @@ Other* Fully Functional MEGAFAB System (ezloadout)
 (Step22) Tokamak-NextGen Vacuum/Plasma Engine (default/startup)
 "ClosingRemark/BonVoyage"
 
+--******--Disclaimer Dependencies That are not yet Installed:SKIP Until Prequisites are MET in Final Build
+====Revistation after FINAL BUILD(meaning it must be developed):(You can try but you will NEED the Distro at least) or also AT LEAST THE AITHEORY INSTALLED 
+(You don't need legacy if you have the rest)(Though LEGACY will also likely make it possible)--(YOU NEED CERTAIN ARRANGEMENTS OF THE REPO/DISTRO or LEGACY/AITHEORY)
+(It's BETTER to install REPO/DISTRO Firsthand before attempting this in any build)--THERE ARE MARGINAL ISSUES THAT OVERLAP OR OVERHANG between EACH BUILDS and why this is an issue. 
+(Just get the final versions for it) IMO otherwise it won't be as GOOD even with MACRO-Autonomous-Builder or CopyOver(Extra/Ai-Brain) Assistance. OK THEN. 
+--It can probably still work though if you build it specifically for it without final versions though of course this is even worse than having bare mininum 
+(In fact that would make it below minimum and power issues will occur). (So just build all the parts you need first for installing this to work on a basic package)
+--ALSO IF THE BASIC PACKAGE IS ALREADY OPTIMIZED so it might be able to support it just BARELY. 
+(We optimize by default unless you don't want the Networked-LoadOuts then I definitely would not recommend adding this part)
+ALSO if you are using a cluster likely it won't work without a central-full build model anyway. (SO Cluster-Use may be limited or dependent as well)
+
+
+(For use with dysonary macro ONLY)-Skip Otherwise
+23-Arcx1 Fully Functional MEGAFAB System (04expanded) (loadout)
+-
+24-Arcx1-TimeMachine(legacy expanded)(dropoff/recovery)
+25A-Archx1-Ai-Interactivability(new protocol)
+25B-Archx1-Ai-Interactivability(new protocol netmesh obtained)
+=====DO NOT USE WITHOUT FINAL BUILD
+(cuz IDK...these steps wasn't even possible without it technically)
+(WELL They was actually but they wasn't really ready, so just a precaution. Disorganization? You should expect this type of thing from me)
+--******--Disclaimer Dependencies That are not yet Installed:SKIP Until Prequisites are MET in Final Build
+
 Final Build:
 01-Arc1x-Server-OS Public
 02-Arc1x-VirtualMachine Public
