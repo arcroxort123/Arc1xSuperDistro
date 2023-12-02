@@ -711,10 +711,11 @@ Minor Update to The Xcode
 Let's say the process is still not good and we have to drop a load-queue everytime it takes a step in processing such that it will set to a pending line-in process over each step 
 (making it three parts instead of technically two which would be base+refine+conversion as the full prep in each step)---then will it work, likely but it takes slight longer and has drastic results so it also has to be reduced.
 Now the xcode is printed each time and reverted back to an original language until it is printed in the correct "encoded language format after the entire running process"--(which syncgh up with the file-type anyway.
+This effects meta data slightly but it not catalogued in the final print, the final print may also be set to include this meta data.
+In the language switch up the tensor points should be denoted as aligned to the imaging proccess and synch together. (this allows the various models/samplers to change up their own resolutions if they aren't primed to be synched)
 
 Now I am going to just stack up everything that has been written here so if you have been looking at this document you might notice there are great lengths of text that seem to take a shape and this is a common occurence.
 These shapes are actually going to be used to tie up the chapters of the document (and there are a few chapters but mainly in this section of PODSPACE/BIOMETRIC) expressing the Thermos-Draught and Draft.
 This was later developed into an AUGOR based system that combined both draft types. (One being more refined than its predecessor) Though were mostly invented in the same time.
 I dedicated this work to one of my pets who gave me plenty of support and confidence while I had just had been finishing everything. Thank you very much.
 Things have been going very smoothly despite a few open-speculations, everything has worked out better than I could have expected, I will miss him very much. It is a very bittersweet notion.
-
