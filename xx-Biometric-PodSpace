@@ -620,7 +620,7 @@ the project itself reciprocates or acts as a kiosk/bulletin for its own requeste
 (so any user that is using it gets their contents by orders and exchanges them as necessary)
 It organizes the whole region into a working pipeline. And runs as an image. (this part should really be its own file)--it plugs in everything so you don't have to. (anyways)--never gonna make it tbh.
 
-
+THIS PART DESCRIBES THE REALTIMEIMAGING ENGINE THAT IS THE AUGOR-HOSED-ENVIRONMENTAL LIVEIMAGE(autodigest)
 11/30/2023
 Easy Access RealTime Imaging (Maybe its not real time)
 FateStone Based (Quadratic Hosting Processes) which are Dll-supported etc and can be set as devworkable if necessary for easy access editing (in case parameters need force) and buckets out more or less in a few steps
