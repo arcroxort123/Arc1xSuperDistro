@@ -713,7 +713,7 @@ Let's say the process is still not good and we have to drop a load-queue everyti
 Now the xcode is printed each time and reverted back to an original language until it is printed in the correct "encoded language format after the entire running process"--(which syncgh up with the file-type anyway.
 This effects meta data slightly but it not catalogued in the final print, the final print may also be set to include this meta data.
 In the language switch up the tensor points should be denoted as aligned to the imaging proccess and synch together. (this allows the various models/samplers to change up their own resolutions if they aren't primed to be synched)
-
+If anyhting this adds more support for the sdxl usage in the overall Image-Augor(outlet system using nuvolver modules)
 Now I am going to just stack up everything that has been written here so if you have been looking at this document you might notice there are great lengths of text that seem to take a shape and this is a common occurence.
 These shapes are actually going to be used to tie up the chapters of the document (and there are a few chapters but mainly in this section of PODSPACE/BIOMETRIC) expressing the Thermos-Draught and Draft.
 This was later developed into an AUGOR based system that combined both draft types. (One being more refined than its predecessor) Though were mostly invented in the same time.
