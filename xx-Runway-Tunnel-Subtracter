@@ -42,3 +42,8 @@ Similar to SD-Options (And Attention Preferences to DataLoads) --Can cause syste
 therefore connections must be also -reconnected)--once it clears up it can be "auto adjusted" under known stressors (within acceptence or exemption) --it will then still maybe cause a system hang or (fast rejection due to exception being recognized)--if this occurs it can be default to normal speeds
 That is why its optional (it isnt necessary to have this extension to utilize aggregate-access)--it just helps if the system is allowed to over-ride "third party limitations" by supplementing its own capability. (Other systems might not allow this due to permissions or securityissues)--IDK 
 (It would take even more hacking to see if it would work afterwards anyways)--It doesnt always work because "obselete tech" or incompatibility or just plain "unable to compensate for this "extrenuated stress on a dataload"
+It should actually be called SERVER-HUSTLING --imo that describes the kind of situation taking place.
+---
+We have an expected packet, we want to have it instantly, we want the packet to be as large as possible to reduce the request and speed things up---naturally other technology will not be able to take this into account and "desynch" or trigger a flag or something.
+Unless it can then it will be instantly siphoned as much as possible per the request issued. See what I am saying? Oh well. It would basically "transport entire fleets worth of information at a time or basically a full space colony to instanteously be teleported if for instance, a world-ending situation occured or system freeze :P"
+
