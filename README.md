@@ -1,3 +1,4 @@
+Disclaimer: All of this is NONCODE Jargon (Sorry but its the best I got going right now)--(Don't be a hater)
 
 Legacy - Surmisal of a Robotic Engineering and Fabrication (Jump Start from a power-system) point requirements established later anyways or at least in description. 
 *(Originally Built In MineCraft and a few other Games with game references) :-/
