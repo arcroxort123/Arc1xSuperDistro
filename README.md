@@ -1,4 +1,3 @@
-Disclaimer: All of this is NONCODE Jargon (Sorry but its the best I got going right now)--(Don't be a hater)
 
 Legacy - Surmisal of a Robotic Engineering and Fabrication (Jump Start from a power-system) point requirements established later anyways or at least in description. 
 *(Originally Built In MineCraft and a few other Games with game references) :-/
@@ -24,8 +23,11 @@ AI BRAIN - A well-balanced (or not) attempt at creating an Equilibrium using an 
 ---
 
 CopyOverManagement --- Handling Data InBound/OutBound With Better Security (Monotonously Juggling Data As Usual)
+
 MacroAutoBuilder --- Handling My Table of Context to update to better versions
+
 DysonaryBulkheadRelay --- Making an Affordable WorkStation possible in a confined space (now you can own your own MINI-Collider I guess)
+
 BiometricPodSpace --- (Making Space Tubes for "Robots"/"Pilots" to Live and "Work" in "In Harmony")
 
 ---
