@@ -50,3 +50,11 @@ Unless it can then it will be instantly siphoned as much as possible per the req
 so of course I would reccomend an actual server setup for this (I run my poor computer like a server would be run lol i.e. Don't do that!)
 So a server should be good enough for doing this.
 
+Now we get to count back all the times we would have used the "data distellery". So of course we would use it here at the very end.
+We would use also at the start of the interceptor development (if we had even known about it--protip:we did)
+because we wanted to use it way way back during legacy--sometime during the extras-development (still writing that out right now)
+So we know there are those three parts we can use it with. Somewhere In Legacy/Extras/and with the RUNWAY / + "and all the little places any time there would be data used anywhere"--which is EVERYWHERE ELSE.
+Using the distellery with THE ENTIRE SYSTEM--+using it with an interceptor WILL DEFINITELY require a fully dedicated nexus (for which THIS ENTIRE DOCUMENT IS SUPPOSED TO BE ABOUT)--by the time we use it at all, we should be working towards finalizing the DYSON-REACTOR + DYSON PLATFORM (which it can be used with either)
+Using it with the full system and the ENTIRITY of all its version is where it will work out best!
+----So now we prioritize it by parses that it will handle (SPECIFIC parses or all of the ones possible)--this will cover hundreds of layers of server-hosted-processing over several trays/stacks. So now we can just use it all over 1U for instance and that should cover everything mentioned more or less. I assume anyway.
+
