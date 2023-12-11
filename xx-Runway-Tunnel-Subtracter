@@ -46,5 +46,5 @@ It should actually be called SERVER-HUSTLING --imo that describes the kind of si
 ---
 We have an expected packet, we want to have it instantly, we want the packet to be as large as possible to reduce the request and speed things up---naturally other technology will not be able to take this into account and "desynch" or trigger a flag or something.
 Unless it can then it will be instantly siphoned as much as possible per the request issued. See what I am saying? Oh well. It would basically "transport entire fleets worth of information at a time or basically a full space colony to instanteously be teleported if for instance, a world-ending situation occured or system freeze :P"
-"Even my own computer can't dp this "atleast 10% of the time anyway"
+"Even my own computer can't dp this "atleast 10% of the time anyway" so of course I would reccomend an actual server setup for this (I run my poor computer like a server would be run lol i.e. Don't do that!)
 
