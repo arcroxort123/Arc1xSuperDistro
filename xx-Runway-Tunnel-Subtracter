@@ -281,3 +281,10 @@ Having a Faction Protecting you from this should be default (but sometimes it is
 This Setup will help to survive Multiple Dday-Attacks. Well that will suck if even one goes off. It will be useful to at least handle a few of them.
 Transfixed Compass (Integrated Mapping Compass with Mapping System)--may use nueral-grids as charters on mapping-profile and other charter profiles (ai-prompting charter for instance)--(ledger-charters)--(both those and workspace-related charter)--(modcharter)-(these charters together with a compass for a self-explorable charter base--on any level including dungeon level)
 Allows "for bidding" contracts of charters (speaking of faction charter exchanges are forbidden)
+
+12/14/2023
+Charter Seeding Profiles which can be called on during progeneration/analysis comparison
+Advanced Allocation "Profiles" safe and better distinction/distinguishing of warez/xcodes during analysis and better artifact recollection/memorialized handling/processing
+Advanced Assorting "Profiles" that help with item/object classifications and help to sort/organize types by properties
+Advanced Recognition "Profiles" Able to better 'recognize' item types such as the difference between a comparison card/mesh/node/bomb for isntance what the difference is between those or an advanced measure of an item property "corpse/chemical" : i.e. corpse-card/chemical-mesh and so on.
+Advanced item-trees/stems "profiles" which mean compensated items or "very disguised items" can be built into and their profiles shared over other "pathways" via quick-call or etc
