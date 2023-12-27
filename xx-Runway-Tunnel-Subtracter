@@ -1370,3 +1370,4 @@ The bitquo/echelon has also been holstered into a corral FOR this specified purp
 
 BITQUO WorldBreak(dday)
 This occurs even in corral that the quo activates as a warhead or causes dday in some way terragraphing itself or transferring itself to another world build.
+It can self initialize as well which causes some concern if the faciton is not built to withstand the first world break (which takes quantum bouquet usage) and further Virtual bouquet usage/nuairx bouquet/dyson bouquet/deletemtal bouquet/leviathan bouquet and others.
