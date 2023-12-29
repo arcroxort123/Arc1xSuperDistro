@@ -1641,3 +1641,27 @@ The system administrator is able to do this because of wpadding usage between vi
 --taxing can be set to remediation/penalties that that player may be exempt from until having provoked a temporary tax-charge on players affordances in their expeditions.
 (There is minimal noticeability other than an incentive to "pay the tax/requirement" of expedition costs.)
 (And the tax-rate is often negligible as real penalty likely results in a system-wide ban depending on the owner-preference)
+
+Guide To Building a Fast-Entry Environment:
+How to fast-track to a Virtual Reality Generator:
+So in 5 steps from scratch.
+Make Ai generator
+Transcript it to a Gamespace(trainer)
+Use gamespace to make Ai generated model
+Use Ai generated to make filtered hypernet
+Use Hypernet Render as the new VRGenerator --(and dress it up with everything else)
+
+Or as little as (but not as good)2 steps
+Or Use an Ai Generator(dressed up) to make a filtered hypernet (model)
+Use Hypernet Render as the new VRGenerator
+
+In this way you can reach 2 step generation for a full circuit over the virtual reality (by doing things the long-winded way supposedly it is better stream-lined)
+In the case You load the "Virtual Reality" and the Components are real-time constrained only by render-differencing and (network-connectivity if used remotely).
+While the real-time is reserved for direct pilot actions (consequences are immediately rendered) --So with a combative encounter or "minion-device encounter" the render is prioritized for the environment as PVE and then there is also PVP However that only matters on surface-point.
+The action follows a timespace of the virtual environment. The actual timespace of the pilot is seperate from the reality and takes a frame of 1xFPS to transcript. (The delay is 1xFPS at maximum rate)
+It's up to a player to simply now the difference of a split-second action. Player actions are generally considered 1FRAME behind actual virtual-actions. (Meaning that in a split second the player simply must pre-emptively act in accordance to the simulation)
+In theory real life is real-time. So virtual reality is semi-real time. And the difference is negligible or unnoticeable unless using science works with half-life in particles. The V8X engine uses Vac-Tech to simulate this differences in calculations as on par with reality, however the relay itself is 1 frame (or a ghost frame behind)--while the calculations on on the same flux (unless over a remote connection)
+The particle differences take priority over the calculations/render such that 1/3-1/3-1/3 with priority to the actual instance by measure (that if a network connection effectively predicts an action that action amy be applied)--multiple instances of that relay are applied generally through buffering to insure the action is applied. (Creating latency) (The higher the latency the less likely priorty is favorable for any action)
+This accounts for "sporadic instances of quarks as well". --As to the gaming experience there may be a noticeable delay or sometimes a priorty-favoritism in relay action-consequence. That is because the action didn't happen in the necessary condition of the timespace calculated, and the buffer of the relay was not granted favor (however there still may be follow-up consequences per action issued--that will be favorable or not depending on the conditions of the overall connection and interactive-workspace/environment)
+Gaming weights can also be adjusted to adapt to latency.
+
