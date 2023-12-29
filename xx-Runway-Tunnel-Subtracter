@@ -1532,15 +1532,19 @@ Then it re-codes itself via that methodology to generate a working system within
 That end product then is shipped out as a maincode-system for any specific platform (like minecraft/blender) having incorporated its coding without manufacturing the code itself persae (Incorporation)
 
 This describes a hypernet in action.
-Here are the steps:
-
+Here are the steps: (It looks botched but it isnt)
+==
+Firstly:
+Preface:(What WE NEED)
 We have a layman's version of our entire planned product: We just use it all as a prompt (long-winded render)
+(we then prompt in the render using our laymen's version)--this will be the specific build-model that is always used now as the default prompt. (Its important to have this model built now)
+==Prep:
 We build an Ai-Image Generator (The Dyson)
 We inject the dyson into a gamespace using scripts/crosslinking (The V8X)
-The gamespace hosts the dyson and renders an image. (This becomes the Compliant-Model)
+The gamespace hosts the dyson and renders an image. (This becomes the Compliant-Model that we NEED)
 Export the Rendered-Compliant-Model to be reused with consecutive ai-renders(batched filter-training)
-(we then prompt in the render using our laymen's version)--this will be the specific build-model that is always used now as the default prompt. (Its important to have this model built now)
 ==
+Secondly:
 Using filter-training develop a "hypernet" compliant build of the above process. (With do's and don'ts based on compliant-model usage between the gamespace/generator automatically built into every step and render)
 Use the hypernet to form a compliant-AI-generator-model to the gamespace (rather than being scripted)--now is based on the gamespace library and builds itself distinctly within that gamespace. (so put the ai in the gamespace hardwired)--(this still cane be emulated with scripts so long as libraries are MATCHED)
 Use the Compliant-AI-generator-model to repeat the above steps using the rendered-Compliant-Model again (to build the Compliant-Hypernet). --(More training incorporating a compliant-filter again for the entirity of the gamespace usage)--taking a shortcut(not recomended, but possible--just force emulation of the libraries with the compliant model either way in ai/compliant ai generation)--you may also retrain a hypernet in this way and reach the same conclusion
@@ -1548,8 +1552,11 @@ Use the Compliant-AI-generator-model to repeat the above steps using the rendere
 Resume The Use of the compliant-AI-Image-Generator within the Gamespace as the new ""Compliant-Hypernet-Filtered-Model-(merged-library)"" and export the render as a 'Compliant-Emulation'. (Make sure to just use the hypernet to make a dyson this will be the compliant-Emulation)
 Host the Compliant-Emulation in the Gamespace or Ai-Generator and have it generate the sum of its parts as a Fully-Compliant-Dyson (optional) --filter back into the Ai-Generator or Gamespace (as a first run compliant-emulation-render)
 ==
+Thirdly:
 You have now created a compliant Gamespace with the last render. However:
-Rebuild as necessary a Render as a compliant-library-filtered-model for a fully-compliant-Gamespace. (optional)
-Run the Compliant-Gamespace or Fully-compliantGamespace or batch-render using Compliant-Emulations to reach a ""conclusively-trained-Model"" and customize further by using a Compliant-Hypernet or any hypernet or model or script or prompt 
+Rebuild as necessary a Render as a compliant-library-filtered-model for a fully-compliant-Gamespace. This is done by reprompting the emulations (or performing a second run) in order to FILL IN BLANKS and MISSED CRITERIA. (it may be optional but it important to consider)
+Run the Compliant-Gamespace or Fully-compliantGamespace or batch-render using Compliant-Emulations to reach a ""conclusively-trained-Model"" and customize further by using a Compliant-Hypernet or any hypernet or model or script or prompt. 
 ==
+Finally:
 Now we have rebuilt the entire system to function as intended without actually coding at all and using all of the described process to conclusively assume its usage as a fully-functional build (from laymen's terms to working terms) without even knowing how to code (likely).
+We run that system as the SUPERDISTRO-Package and AI-RENDERED-Virtual Reality.
