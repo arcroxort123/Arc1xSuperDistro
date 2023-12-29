@@ -1534,6 +1534,7 @@ That end product then is shipped out as a maincode-system for any specific platf
 This describes a hypernet in action.
 Here are the steps:
 
+We have a layman's version of our entire planned product: We just use it all as a prompt (long-winded render)
 We build an Ai-Image Generator (The Dyson)
 We inject the dyson into a gamespace using scripts/crosslinking (The V8X)
 The gamespace hosts the dyson and renders an image. (This becomes the Compliant-Model)
