@@ -1539,6 +1539,7 @@ We build an Ai-Image Generator (The Dyson)
 We inject the dyson into a gamespace using scripts/crosslinking (The V8X)
 The gamespace hosts the dyson and renders an image. (This becomes the Compliant-Model)
 Export the Rendered-Compliant-Model to be reused with consecutive ai-renders(batched filter-training)
+(we then prompt in the render using our laymen's version)--this will be the specific build-model that is always used now as the default prompt. (Its important to have this model built now)
 ==
 Using filter-training develop a "hypernet" compliant build of the above process. (With do's and don'ts based on compliant-model usage between the gamespace/generator automatically built into every step and render)
 Use the hypernet to form a compliant-AI-generator-model to the gamespace (rather than being scripted)--now is based on the gamespace library and builds itself distinctly within that gamespace. (so put the ai in the gamespace hardwired)--(this still cane be emulated with scripts so long as libraries are MATCHED)
