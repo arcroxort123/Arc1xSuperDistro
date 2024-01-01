@@ -222,3 +222,5 @@ It sounds complicated but I am just repeated it with a theoretical priority and 
 RenderByMatchBase--OR PlayToRender
 It can use a Game "SPORTS" type render: to simulate its workspace: (make a render by playing a matcbased game against aracde etc)--WIP sort of
 such as MazeRunner/"Putt"Golf/Tennis/Pong "minimal contact"  And then does "medium contact" basketball/soccer (because I feel these are slightly more complex arena wise) and Course/Court Type Sports I didn't mention "that are more contact wise" (football)/rugby/baseball ranked on danger/hazards really. (That would be a basic gaming-render-pack that would allow users to stream line/play to a reward system")
+
+Also incorporating data-analysis types like WaterFalls and V-Models are useful (this is to obtain better analysis of print outs and how they upscale I would guess)--and while Playing their Renders to a Compiled-Output (allowing maximum render customizations per user-issues) as na overtime option.
