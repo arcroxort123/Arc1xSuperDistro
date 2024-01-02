@@ -227,6 +227,20 @@ Also incorporating data-analysis types like WaterFalls and V-Models are useful (
 There was a good link somewhere that listed all these types then I lost it :(
 All this will do it recompile all the information it to a profile management for the entire site to be read in a difference-file so that better adaptions can be made based economically (as is its all just software analysis and data-collection)
 It uses all of them, that you would want to use. There are like 10 of them i don't remember cuz its not my department.
+===*
+So I went online and tried to look for them again and I am just too tired to continue but I found something describing exactly what I was looking at. Whereever or whatever it was (This is what I was describing)
+Some citation: Citing: HEre is some detail I found at
+https://arxiv.org/abs/2307.07846
+This research article introduces AIOptimizer, a prototype for a software performance optimisation tool based on cost reduction.
+AIOptimizer uses a recommendation system driven by reinforcement learning to improve software system efficiency and affordability.
+The paper highlights AIOptimizer's design factors, such as accuracy, adaptability, scalability, and user-friendliness. 
+To provide effective and user-centric performance optimisation solutions, it emphasises the use of a modular design, data gathering techniques, continuous learning, and resilient integration.
+The article also investigates AIOptimizer features such as fault identification, cost optimisation recommendations, efficiency prediction, and cooperation. Furthermore,
+it explores several software development life cycle models and introduces AIOptimizer uses a reinforcement learning-based recommendation engine for cost optimisation. 
+The purpose of this research study is to highlight AIOptimizer as a prototype that uses advanced optimisation techniques and smart recommendation systems to continually enhance software performance and save expenses. 
+The research focuses on various software development life cycle models, such as the Waterfall model, Iterative model, Spiral model, V-Model, Big Bang model and Agile Model. Each model has advantages and disadvantages, and their usefulness is determined by the project's specifications and characteristics. 
+The AIOptimizer tool is a theoretical prototype for such software performance optimizers. 
+===*
 
 It gets the ball rolling so that we can simplify this whole complicated process from start to finish (again and again..but for real this time)
 We start off with a computer that tracks our power usage. It distinguishes power needs and reassigns them for tasks.
