@@ -242,6 +242,7 @@ The research focuses on various software development life cycle models, such as 
 The AIOptimizer tool is a theoretical prototype for such software performance optimizers. 
 ===*
 
+Back to What I was saying:
 It gets the ball rolling so that we can simplify this whole complicated process from start to finish (again and again..but for real this time)
 We start off with a computer that tracks our power usage. It distinguishes power needs and reassigns them for tasks.
 The task is to build batteries and robots. The robots get used for building batteries, the batteries get used for building robots and power needs.
