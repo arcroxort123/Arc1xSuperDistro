@@ -1,3 +1,4 @@
 https://mega.nz/file/A9x2ARYK#nJcDbcXErWsFJ2J_qDktCoDVBYflO5xPCMtNXXEBcvM
 actually its pretty big so i took out some install files and sitepackages to lower it from 3.9 to 2.9
 i used it for a ubuntu gpt=engineering with bito. it works on latest python and generally it can figure out the site packages you need. i forgot to really list them for now i will later if its that big of a deal.
+i typically use a virtual and my_env environment both at once on ubuntu cuz...why not
