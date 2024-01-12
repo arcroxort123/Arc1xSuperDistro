@@ -22,4 +22,5 @@ It tried to use npm/node/java/azure(maybe)/other things.
 It hung up on some codes but I mainly was able to get it going at 50lines per prompt (cuz my prompts were actually huge)--it took 650 times of running everything once over.
 
 I ran it by using a VIRTUAL environment and also a MY_ENV environment at the same time in UBUNTU using PYTHON3.11 and other editions while using GPT-ENGINEER over GPT4-preview model.
-It only is something to show for anything I did. It at times did not want to do 20 or so particular prompts so I just had to redo alot of those or reword them (protip it doesnt like mentioning CYBERBULLYING or ANIMAL-BYPRODUCTS or SPIDERNETS)--but its STUPID!
+It only is something to show for anything I did. It at times did not want to do 20 or so particular prompts so I just had to redo alot of those or reword them 
+(protip it doesnt like mentioning CYBERBULLYING or ANIMAL-BYPRODUCTS or SPIDERNETS or VIRUSES)--but its STUPID so I just reword it as "particles/fallout" or something!
