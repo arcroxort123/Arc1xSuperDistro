@@ -35,4 +35,4 @@ It can create a DEVSERVER for virtual packages that spams their connections if y
 and then also it might have a few other node servers or failed jscripts that might add up to something once I work anything out.
 
 In the lightweight version I took out all the envs and got 8990 issues in 1777 files (out of 6591 files). So :-( I guess i need those envs IDUNNO.
-Currently at 63/215 issues in 7308 files out of  66251 files total.
+Currently at 63,215 issues in 7308 files out of  66251 files total. In  the heavy version
