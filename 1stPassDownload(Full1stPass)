@@ -37,5 +37,5 @@ and then also it might have a few other node servers or failed jscripts that mig
 In the lightweight version I took out all the envs and got 8990 issues in 1777 files (out of 6591 files). So :-( I guess i need those envs IDUNNO.
 Currently at 63,215 issues in 7308 files out of  66251 files total. In  the heavy version
 
-CurrentRequirements for 7900x-Ryzen Windows 11/UbuntuWSL2
+Project Working Scondary Files:CurrentRequirements for 7900x-Ryzen Windows 11/UbuntuWSL2
 https://mega.nz/file/E8ZhGJ4B#92tLeO1Laxt7t6RwFZVZ2xBABq4JkXt6hH9NJVQ5b8A
