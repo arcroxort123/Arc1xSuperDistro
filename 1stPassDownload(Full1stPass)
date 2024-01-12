@@ -1,2 +1,22 @@
 https://mega.nz/file/A9x2ARYK#nJcDbcXErWsFJ2J_qDktCoDVBYflO5xPCMtNXXEBcvM
 I will just upload a full version later. When I really feel like it.
+It runs on Python latest version but I might have changed interpretors so it might be a different version or not IDK.
+I did a first pass of all my text (except for the AIBRAIN/EXTRAS) because I dont have the EXTRAS written out and I don't want to spend 40bucks on "word-soup" right now to give it a pass. 
+Plus the AIBRAIN should just technically be shoved in wherever it would fit and then the system would be "wrap around" whatever it does using the brain as a filter/parsing sieve.
+it would work OR SOMETHING!? again I just cannot say. I wish it would anyway, so I use my creative side which of course, it is not adequate for code anyway.
+So it uses python, and a few site packages, doesn't have the brain(doesn't need it anyway imo) and I still need to rewrite the extras because I have just been that busy since August of last year '23
+The rest it more or less has, I glossed over the SPIDERLAIR/Xpresto too because it was just boring and not writte4n out right anyway (and I don't really care about it ATM)--im busy.
+THE LEGACY IS IN THERE. The Distro and Repo is in there. the LATER bits are in there. (THE AI BRAIN AND EXTRAS ARE NOT IN THERE)--The SPIDERLAIR/XPRESTO may or may not be really in)
+It took me a week cuz no one else would help me so I just slammed it in 50 lines at a time. I KNOW it didn't pick up everything. I am assuming a 1st pass is all I need anyway.
+I will let BITO do an index 10x research on my code that it can use (PROTIP i have to take all the other stuff out that isn't strictly what the 1st pass was)--the python/packages arent getting worked on.
+The other things and minor codestrings I will attempt to improve with BITO10x and slamming its answer in as PROMPT FOR GPT-ENGINEER to reforum the entire folderspace.
+Cuz I have no other way to understand how to build code this is the best way I can shove my ideas together as "likely something else that was ripped off" and selected for my project.
+The project DOESNT actually work at all. Unfortunately.
+
+I have managed to get it to make some small windows. 
+It tried to build some file-branching. 
+It mostly just did class-definitions that go nowhere. 
+It tried some funky installs and old versions.
+It also tried to build things in a way that looked like it was using third party programs to help build my things.
+It tried to use npm/node/java/azure(maybe)/other things.
+It hung up on some codes but I mainly was able to get it going at 50lines per prompt (cuz my prompts were actually huge)--it took 650 times of running everything once over.
