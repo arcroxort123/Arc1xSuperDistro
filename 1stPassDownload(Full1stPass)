@@ -1,4 +1,4 @@
-https://mega.nz/file/A9x2ARYK#nJcDbcXErWsFJ2J_qDktCoDVBYflO5xPCMtNXXEBcvM
+https://mega.nz/file/tkpEUBpZ#pAdJ2VabRwSSZ9xAUKEBV6AsLlQYgOVfU2fLjlnB1ko
 I will just upload a full version later. When I really feel like it.
 It runs on Python latest version but I might have changed interpretors so it might be a different version or not IDK.
 I did a first pass of all my text (except for the AIBRAIN/EXTRAS) because I dont have the EXTRAS written out and I don't want to spend 40bucks on "word-soup" right now to give it a pass. 
@@ -33,3 +33,5 @@ It only is something to show for anything I did. It at times did not want to do 
 It only wants to make a few windows such as a NONWORKING task-manager and misc windows for backup and some weird program I might have made up or not that does nothing yet.
 It can create a DEVSERVER for virtual packages that spams their connections if you hold down ENTER strangely enough (thats cool to me)
 and then also it might have a few other node servers or failed jscripts that might add up to something once I work anything out.
+
+In the lightweight version I took out all the envs and got 8990 issues in 1777 files (out of 6591 files). So :-( I guess i need those envs IDUNNO.
