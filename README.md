@@ -34,5 +34,7 @@ BiometricPodSpace --- (Making Space Tubes for "Robots"/"Pilots" to Live and "Wor
 
 XX-Runway-Tunnel-Subtracter --- Making Platform Abstraction from a Dyson Mega-Cube--(HyperCubic VR Projection) to (A Full Simulation)--Using an Augment-Data-Reactor Support and Congruent Quantum DownFlow (Exchange Networking) (mmmmmmmkkkkkkkkkay) to combining them as a Dyson-Turbine (Yeah probably not happening but Quantum Teleportation with AS-ADVERTISED REAL TIME VIRTUAL DATA)
 
-
-
+---
+Generated Endworks (Harmonizer/Utopia--"Endotropic Codeworks")
+Addons for Node Interaction and Routing
+"SpiderLair + Xpresto" Addons (Entrypoint Tunneling System(Interactive BackUps) and Priority-Lane-Allocation(Adjacency Proxy-Organization)
