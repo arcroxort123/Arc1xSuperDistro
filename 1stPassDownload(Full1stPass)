@@ -3,6 +3,7 @@ it used to be be 60mb then maybe 700mb with all the packages and everything its 
 it has python and gpt-engineer chunks here and ther. i just dont care to remove it because i would have to remove alot of stuff in alot of places that it snaked itself into (its not a clean build..for sure) im not a coder and im a mess.
 it has left over test keys and things that wont work so dont bother trying to think it will..it might have some file path references to my own computer, i just dont care.
 thas not including the ubuntu-wsl distro it was built on either which is definitely like 20gigs of junk on it too. (it started out at like 2gb but i added alot of crap onto it relatively quickly just so i could build it up with gpte. then gpte sort of just "bled into" the project directory in some spots.
+as well as the python packages and python-extra packages bleeding into the project directory, i just decided to throw it all into place (i clearly dont care) if it would have worked the way i wanted it to it would have been cleaner. oh well.
 
 I will just upload a full version later. When I really feel like it.
 It runs on Python latest version but I might have changed interpretors so it might be a different version or not IDK.
