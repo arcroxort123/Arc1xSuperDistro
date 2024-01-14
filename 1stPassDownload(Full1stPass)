@@ -1,5 +1,6 @@
 having to fix link due to packaging it twice (check back in hour)
-
+it used to be be 60mb then maybe 700mb with all the packages and everything its like 3gb :-/ (these includes mostly python related and virtual environment related stuff)--im just gonna include it so i dont have to explain anything
+it has python and gpt-engineer chunks here and ther. i just dont care to remove it because i would have to remove alot of stuff in alot of places that it snaked itself into (its not a clean build..for sure) im not a coder and im a mess.
 
 I will just upload a full version later. When I really feel like it.
 It runs on Python latest version but I might have changed interpretors so it might be a different version or not IDK.
