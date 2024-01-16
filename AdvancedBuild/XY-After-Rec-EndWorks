@@ -692,6 +692,11 @@ somewhat helpful but also only during "chase/hunt/prowl/dash" events, can be rec
 --this creates a meta-podbay system in which the source node (oven/stove) can be furnaced (activate in several proxies of its origin state)--to simulate a phase-rider that simulates carry-over encodes. this allows it to simulate a local-net as well. doing this allows this node to function as an xsap/azoc that can communicate independently as a kiosk or to relay direct to faction commands based on its branding and favorability in diplomatic user-space (according to the object/user ownership of that node)--if it is not owned it may be converted or aquisitioned for recycling and normalization of its installed cache--it may be deactivated and suppressed/forced into a ruined domicile once extracted
 --it may also be hacked to inoperativity and "over-written" by world corruption because it is more or less an empowered-decoy/temporary mailbox that may or may not be reactive/trapkey
 
+updating food to an ampuled-foodsource (t9) from the honeycomb
+is a crystalline gelenatine "ambi-core" absorpbative material and sustenance on par with other dissolvants. may as well be a blood coagulant in medkiting too
+is only gained from other units being purged (due to their deterioation it is a limited supply)--no its not adrenochrome. it may be refined off a cadever however to supply minor health-percentages or repairing
+it may be stashed away within ruined crypto-residencies or ruined domiciles
+
 1/2/2024(retouched)
 Author's Note: Sorry I did a somewhat poor job in making sure all the macros are built right and all the workflows are structured consecutively toward the end of this document (things were falling apart left and right tbh) ESPECIALLY with the Models-Construction and the (Addtional data-models) and theories. (Becuase things got complicated though I think its pretty well written despite that)
 People will say It needs to be a symposium (well Its a shame that I have to do it all on my own)
