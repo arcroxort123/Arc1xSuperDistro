@@ -1978,6 +1978,7 @@ Sep-V2 /m1a2base /upgraded-hybrid /m1a2base+upgraded-hybrid /enhanced-standalone
 Rollback-M1A2base-Hybrid  /m1a2base /upgraded-hybrid /m1a2base+upgraded-hybrid /enhanced-standalone+upgraded-hybrid
 --5x profiles breaksdown to 4x types (yes you can select many of each) because its a raid system.
 It also gets redundant and using the m1a2base-hybrids to form basically a "tank2tank" complex. I don't care if this makes any sense (it is to prevent it from overcharging itself into a killsquadmodel which would issue compatibility problems)--but since it can do this it this way its considered safe.
+Compare to using a PVP/PVE CLASS with different Specs per Occasion desired in a raid/battlegroup. (This was a huge deal to break down to 5x to 4x and still keep variability balanced)--now its just pick out as much as you need for as much as you will be working on. (The raid system will have limits like any other battle group over the matchbase and simulation conditions)--this issue is basically the boot/prep for that. (I know its going to be ugly if not done right)
 
 
 1/2/2024(retouched)
