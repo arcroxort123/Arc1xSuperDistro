@@ -1,3 +1,4 @@
 Get a Raspberry and setting up a remote device connection to adhoc a drone and camera for motorized control and onboard streaming through a remote connection (satellite)
 Using a main-ubuntu workstation to inteface with the drone/raspberry/camera device to control remotely from a connection (bluetooth or satellite)
 Just a small idea. to uyse as mini scout survelliance on the fly using a ubuntu image-matchbase.
+In the least it can function with a solarized battery cell.
