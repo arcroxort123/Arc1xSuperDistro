@@ -61,7 +61,7 @@ Multiple Models get used and the SYMBIOTE-OFFICE deprecates to and between model
 --
 
 3/2/2024
-Deciding to use other sources to build this system or at least pretend that it works the way it would if I did infact build it with other sources.
+Deciding to use other sources to build this system or at least pretend that it works the way it would if I did infact build it with other sources. Right now I am at 54gigs but I am not exactly sure because I am still building it up.
 This can sort of be fixed/phased up with all packages I was ble to install about to 3972-Ubuntu Packages to feel comfortable and 9 snaps and 115 pacstalls just because I feel like it more or less looks like everything gets covered almost.
 Added a bunch of VS codes extensions around 800 and other extensions in python/conda for Ubuntu and Wsl-distro on Windows11 using extra-server packages with a combined node/shell experience (for bash experimentations and ultimately language propogation of all other language packs)---going to estimate this around 5k total extensions/packages and calling it a UBUNTU5K
 Then infusing UBUNTU5k with AI-repos to emulate my preferred System . and I estimate it eaching a total of 13,655 other packages before I maybe feel good about that or not. (I realize there are alot of other packages I will and can add after that I don't necessarily want to)--I think it caps out around 16.5k for total package usages with 17.5k packages being used for fun. (Games)
