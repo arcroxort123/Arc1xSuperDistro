@@ -270,3 +270,11 @@ At BAREMINIMUM hosting preferences. 10 ips should be used to isolate the entire 
 8 an ip spare (game-matcher)-(can change to other ips if wanted for language swapping)--(never mainsource but can be used on mainsource)
 9 the app which is used/shared (workspace is fine)--(the convention compatible usage and remote-exchange)--basically the game-match itself when its active
 10 a container/probe and emulator (for full broadcast of a convention--basically your very own AI-narrators)
+
+Plasma Issie IP usage includes a psuedoIP-masking and gateway which (is not an ip) and connects to a dangerous gateway (which can make or break networks)--i guess
+but in fact it helps to add an extra ip-out for the vpn and also the personal network
+if the spare ip is contacted to the plasma-gate it may require quantum aacceleration to withstand or can be shutdown (it is okay to force shutdown the spare and saves the network overall from a system shock)
+--if the spare is used for vpn/personal usage that is fine too, but limits the network whenever it does get shutdown, and may cost the vpn usage as well with the network if it does get in contact at all with plasma gates.
+--in minimum this makes 12 ips preferred
+
+also 25 to a full quarter is appreciated in handling not only 12 personal protected from plasma gates, but also 12 for remote protections, and a 25th as a spare in quarters.
