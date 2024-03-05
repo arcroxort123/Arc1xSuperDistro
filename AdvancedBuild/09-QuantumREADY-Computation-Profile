@@ -258,3 +258,15 @@ This is referred to as hyper-emulation is should be largely undetectable under l
 Being able to do that in the least requires a hyper-scepter/hyper-tokamac for REMOTE-emulation to achieve FTL computations from a different perspective of the Onboard/Regional Subsidies to inteface with, at least I am saying that this way, it may not be so complicated once any of these options are figured out.
 
 CURRENTLY I do use a network stack on my own OS/SUBSYSTEM with three server-IDES each of them with their own extensions and configurations/containers so basically its "CLUXTER-FXKD" basically I feel like that is a good COMPARISON to how I would actually do things if I had this kind of technology anyways.
+
+At BAREMINIMUM hosting preferences. 10 ips should be used to isolate the entire system from groundworks properly.
+1 the inherent OS (nexus)--(centerhq)
+2 the subsystem (distro)--(virtual usage)
+3 a psuedo-server (openssh)--(a database)
+4 a decent server (zab-bots)--(a bridge-gate for nodes just incase and or botnet for kiosks)--this allows roaming to interchage
+5 a node server (node)--(where it goes down, for raiding mostly)
+6 a practice server (rubyonrails)--added security and throwaways(important and fun)
+7 a vpn usage (isolater/source)--(board-management)
+8 an ip spare (game-matcher)-(can change to other ips if wanted for language swapping)--(never mainsource but can be used on mainsource)
+9 the app which is used/shared (workspace is fine)--(the convention compatible usage and remote-exchange)--basically the game-match itself when its active
+10 a container/probe and emulator (for full broadcast of a convention--basically your very own AI-narrators)
