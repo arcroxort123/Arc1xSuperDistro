@@ -4987,3 +4987,15 @@ zsh-history-substring-search			install
 zsh-syntax-highlighting				install
 zstd						install
 zvbi						install
+---SNAPS:
+bare                      1.0              5      latest/stable    canonical✓     base
+code                      1e790d77         154    latest/stable    vscode✓        classic
+core20                    20240111         2182   latest/stable    canonical✓     base
+core22                    20230801         864    latest/stable    canonical✓     base
+cups                      2.4.7-3          1024   latest/stable    openprinting✓  -
+firefox                   123.0-3          3836   latest/stable    mozilla✓       -
+gnome-42-2204             0+git.ff35a85    141    latest/stable    canonical✓     -
+gtk-common-themes         0.1-81-g442e511  1535   latest/stable/…  canonical✓     -
+snapd                     2.61.1           20671  latest/stable    canonical✓     snapd
+ubuntu-desktop-installer  0+git.0057491b   1286   latest/edge      canonical✓     classic
+xonotic                   0.8.6            87     latest/stable    snapcrafters✪  -
