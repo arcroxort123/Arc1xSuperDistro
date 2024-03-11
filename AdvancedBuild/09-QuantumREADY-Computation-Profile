@@ -425,22 +425,22 @@ This also might be heavily configured to certain build-ups and rule-sets being p
 
 3/10/2024
 EasyRanching-of-SystemTables:(most is already same set to allow the same tools used in each system)--(no alternatives and main usages of branches except when under control and enforced to a "dummy-program")
----
+---Branch may adopt any system it so desires or reprioritize in any way: SuggestedBuild:(Anything with serv flag is ESPECIALLY interchangable and can also carry/tote environments alongside over virtual-sync)
 1-MainBranch (with full 1-16 steps begin Symlinks)--(as having a subsystem or not or anything)
-2--SubSystem (and below as interchangable--mostly safe)
-3---Ssh(prox)
-4----Rab(vpn)
-5-----*Node(1st-env)
-6------Ruby(prog-build/venv)
+2--SubSystem-serv (and below as interchangable--mostly safe)
+3---Ssh-serv(prox)
+4----Rab-serv(vpn)
+5-----*Node-serv(1st-env)
+6------Ruby-serv(prog-build/venv)
 7-------Python(Interpretator/thread)
-8--------Docker(extension)
-9---------VsStudio(ide-shell-frame/workspace)
+8--------Docker-serv(extension)
+9---------VsStudio-serv(ide-shell-frame/workspace)
 0----------*(prometheus/ansible)--cluster metric(2nd-env)
 a-----------mysql-serv(passcheck)
-b------------apache(entry-contractor)
+b------------apache-serv(entry-contractor)
 c-------------Symbiote-Profile(psuedo-system and exploit negotiator)(just a big hackfile) with an ai-gen--(lots of extensions and base-tools)
 d--------------Spoof/Audit Remote-Debug and Applied Interceptors (Remote Application)--(networkmanager-probes between environments)
-e---------------*Corrective Data-Centers (Database Mining System and Mainframe-Extensions)-(3rd enviroment and extension of Symbiote-Node+codepsells)
+e---------------*Corrective Data-Centers-serv(Database Mining System and Mainframe-Extensions)-(3rd enviroment and extension of Symbiote-Node+codepsells)
 x(-0-)-----------Interactive Environment between Remote Faction/Symbiote Contracts (and full extensionary department opsec)/ vocational driver-projection (gamespace-platform)--(begin symloads and event management)--CodespellSwap
 
 5-point-Checking-System-(Symbiote Equilibrium)--Enhanced (-0-) as x(-0-)x
