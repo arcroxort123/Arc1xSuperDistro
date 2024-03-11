@@ -425,7 +425,7 @@ This also might be heavily configured to certain build-ups and rule-sets being p
 
 3/10/2024
 EasyRanching-of-SystemTables:(most is already same set to allow the same tools used in each system)--(no alternatives and main usages of branches except when under control and enforced to a "dummy-program")
----Branch may adopt any system it so desires or reprioritize in any way: SuggestedBuild:(Anything with serv flag is ESPECIALLY interchangable and can also carry/tote environments alongside over virtual-sync)
+---Branch may adopt any system it so desires or reprioritize in any way: SuggestedBuild:(Anything with serv flag is ESPECIALLY interchangable and can also carry/tote environments alongside over virtual-sync)(* flag represents a cluster which may contain environments of prior or later builds in the following steps, as well as nested environments having multiple environments)
 1-MainBranch (with full 1-16 steps begin Symlinks)--(as having a subsystem or not or anything)
 2--SubSystem-serv (and below as interchangable--mostly safe)
 3---Ssh-serv(prox)
