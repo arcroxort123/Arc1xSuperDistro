@@ -18,6 +18,7 @@ We continue this technique of killswitch signal mainframes to establish layers o
 With the input for DEV1 we apply, and create Dev2, which is based off the first dev1 and having been signaled to be apart from dev1 on its own space, we can also define Dev3 under the code table of dev1's fstabs and dev2's fstabs as the Dev3's fstabs for which represent the system table in its partitions.
 Now with those system tables in play we can begin the killswitch signal mainframes for those layers of dev-spaces with their assigned corresponding fstabs generating a system-table, a keymap of system-table variants, and an applied header for each system-table-variant expressed in keymaps and assigned code-lengths in the partition of that devspace (being finalized in dev3)
 We finish out with the system table being marked as ext4 having assigned the keymap and codelength for that to occur as, and in that partition we replicate as a backup for in its usage (just because i dont want to go through it again when it gets corrupt) and another for using the backup within having already been built with some added codespace as is sensible to it being the FINAL-system-partition (of which is additive)
+It's actually not ext4 but some other weird thing that might as well be that...sources just trust me bro (i dunno what to call it but its something)
 
 So fun...doing this all the time (i've done it at least 3 times and once even blind)
 Now because of the Dev-Partitions we can begin to auto-build those into the correct system-assigned-codespaces being marked as G:/
