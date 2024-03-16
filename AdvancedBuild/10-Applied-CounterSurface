@@ -9,7 +9,7 @@ We permute these and abstract these to big/medium/small signals in which beep bi
 Because of this bs, we can keep a signal going when it otherwise would be killed.
 
 We do this a bunch more with what works, what doesnt, what does work when it doesnt, what doesnt work when it does, etc. Whats working when it doesnt and making it look like its working or not etc when it isnt or is etc.
-This is the typical killswitch signal mainframe to help to establish layers of signals within sequence of themselves and define a code-length. The codelength makes it so it can be used to define when and how or for how much space something is.
+This is the typical killswitch signal mainframe to help to establish layers of signals within sequence of themselves and define a code-length. The codelength makes it so it can be used to define when and how or for how much space something is. (The Fstab is a sequence of beeps and boops we know work, we then REVISIT ones that don't and fix them using the ones we know that work and make those more or less work, despite being a little more dirtier and rename them to dirty-signals)--we later clean these up but not now, we don't have the tools to do that per sae (unless we are skipping way ahead into G/Hboot remakes)
 We use this code-length to establish a network of code-signals relative to themselves and form a code table. 1 is a single length/2 is a double length/ 3 a triple length/ 4 a quadrapel length (totaling at least 10 lengths for a table maybe more or less so depending on descripancy)--its basically a byte-template.
 
 With the code table we form a basic fstab, knowing that it is the right way we want, we call it the fstab in which we simulate the grubworks in a code-length signaled as a partition of space.
