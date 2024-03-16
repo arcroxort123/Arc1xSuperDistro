@@ -9,7 +9,7 @@ We permute these and abstract these to big/medium/small signals in which beep bi
 
 We do this a bunch more with what works, what doesnt, what does work when it doesnt, what doesnt work when it does, etc. Whats working when it doesnt and making it look like its working or not etc when it isnt or is etc.
 This is the typical killswitch signal mainframe to help to establish layers of signals within sequence of themselves and define a code-length. The codelength makes it so it can be used to define when and how or for how much space something is.
-We use this code-length to establish a network of code-signals relative to themselves and form a code table.
+We use this code-length to establish a network of code-signals relative to themselves and form a code table. 1 is a single length/2 is a double length/ 3 a triple length/ 4 a quadrapel length (totaling at least 10 lengths for a table maybe more or less so depending on descripancy)--its basically a byte-template.
 
 With the code table we form a basic fstab, knowing that it is the right way we want, we call it the fstab in which we simulate the grubworks in a code-length signaled as a partition of space.
 With fstab one we have essentially defined grubworks under a signal itself and code length corresponding, we know that the fstab is there
