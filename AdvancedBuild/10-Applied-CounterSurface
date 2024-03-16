@@ -2,10 +2,11 @@ This is typical of how I would deduce a computation. This is a simple situation 
 
 We have our initial signal which is killed off like a beep.
 We have a second signal sequence which lasts longer slightly.
-We have our third signal sequence which helps to switch from a bit of the initial to a secondary position of the beep-boop (boot sign).
+We have our third signal sequence which helps to switch from a bit of the initial to a secondary position of the beep-boop (boot sign). (which recognizes a space for which a beep could occur and skips over it, forming an unwritten or unmentioned-switched)--or just as well(it does the switch then and then because of its signal basis)
 --
 We permute these and abstract these to big/medium/small signals in which beep big/small/medium and big/small/medium boop  translate to various switches, and kills, of their pending beeps and boops in sequences.
 6 or so total. We call it the abc and 123's of grubworks. Idk...i do anyway.
+Because of this bs, we can keep a signal going when it otherwise would be killed.
 
 We do this a bunch more with what works, what doesnt, what does work when it doesnt, what doesnt work when it does, etc. Whats working when it doesnt and making it look like its working or not etc when it isnt or is etc.
 This is the typical killswitch signal mainframe to help to establish layers of signals within sequence of themselves and define a code-length. The codelength makes it so it can be used to define when and how or for how much space something is.
