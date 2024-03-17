@@ -47,10 +47,10 @@ This KSTEP symbolizes the Quarter(25) being cryptographically applied. Making up
 
 it may also be that with vrsims: the quarter can translate a rollback/cryptographic cover of
 
-floppy -> a (G-series)
+floppy -> a (G-series)(FLASH1)
 backup -> b (H-series)(crypto)
 ======
-o -> c (ai-drive)(integrated ai-shell)
+o -> c (ai-drive)(integrated ai-shell)(FLASH2)
 p -> d (ai-disk stream)(intergrated ai-workspace)
 ======
 q -> e (ai-disk writer)/shared-user(crypto)/locked
@@ -58,9 +58,9 @@ r -> f (shared-writers)/remote-user(crypto)
 s -> g (simulated-disk)/ai-rewrites(crypto)
 t -> h (simulated-shared-ai-writers(crypto)/unlocked
 ======
-u -> i(ai-network)
+u -> i(ai-network)(FLASH3)
 v -> j(ai-user)/new-user-crypto
-w -> k(fuel based)/(charge based)
+w -> k(fuel based)/(charge based)(FLASH4)
 x -> l(missing-package/package-filler)(autobuilder)
 y -> m(new-ai-workspace)(crypto-currency based)/exclusive-user-access(ai-memetic-based)
 z -> n(ai-thread potency availbility)
