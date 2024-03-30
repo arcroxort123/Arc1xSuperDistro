@@ -643,7 +643,46 @@ It just so happens the compact design of the build has this all occur roughly in
 So either you use the correct amount of tampers, of a mixture of delta-positioned tampers, or even a delta+central tamper network, or major tampers 1-a-2-b-3 with tinier models in between (being 5 total) or a mixture of these built into some sort of SUPER-EXCESSIVE DESIGN involving a hybrid of any of these formations. OK----MOVING ON NOW.
 We have OUR basically VIRTUAL-SHADOWCLUSTER in effect BROKERING DATA----and that DATA IS BEING PROCESSED AS USUAL---through the TAMPERS/COMPUTER-NEXUS overall and being REPRINTED in a translated model for our own INWORLD USE. That is how databrokering works, this is a grand-scale of databrokering that is beyond complicate but ---it works---im doing it now irl. more or less. And im an IDIOT.
 
-
+How am I doing this irl you ask? I AM USING RABBIT/ZABBIX brokering over a virtual machine with my WINDOWS/UBUNTU-subsystem to basically play it up. And then pretend that it translates in some stable-diffusion generation. Which i allow minecraft to script up. (SO THAT EXPLAINS what im doing quite clearly)--despite having a ton of EXTRA-stuff going on none of that other stuff matters, the main setup is just what it is + all the extra stuff for fun later.
+And I believe it works. in a way that explains it as a very stupidly complex way.
+OperatingSystem/Subsystem aside, I am just playing Minecraft.
+In minecraft i want it to build a computer to run tiny calculations basically. I use that to build a working processor inside the game. Then I pretend MINECRAFT is my operating system. and That processor is the actual minecrafted version of my subsystem. This I FEEL quickly scales into 8bit activity.
+Then with a little interactivity of those models, it scales into 16bit. And 32 bit. And that just goes to say, I have 16 or so minecraft processors interacting with each other in all the ways they can based off that array, that they are doing their own bit setup at 16x and 8x 4x 2x 1x etc. That is translates to a dropdown of themselves and virtually themselves, 64xbit. And because of the way thats calculated in the drop down of howmany processors I have built, and how they are interacting with their various terms of dropdown. basically 64+16 (being 80)+ and for each iteration of dropdown 32,16,8,4,2,1 or 86x. See what I am saying here?
+I take that 86x system I have BUILT IN MINECRAFT and simply call it as Minecraft86x *(instead of Minecraft 64x or minecraft 32x)--i want it to work this way....and anyways, it might as well run that way even with the ACTUALY MINECRAFT-86x for windows anyway. (So technically I have REBUILT a possible MINECRAFT86x within MINECRAFT86x)---which would be 86x2 but i don't care about that, I HAVE THE WORKING PROOF I NEED TO CONTINUE with the rest of the system.
+----and on the rollback of that system
+When I said I was pretending Minecraft to be my actual subsystem, now that it is built up to what I consider 86x, I can roll back the systems in the same way: SO MINECRAFT would be 1,then 2 UBUNTUsubsystem, 3WINDOWS, 4virtualmachine running the image of this as well as the previous EASY RANCH OF THE SYSTEM TABLES I DECIDED TO USE.
+1-MainBranch (with full 1-16 steps begin Symlinks)--(as having a subsystem or not or anything)
+2--SubSystem-serv (and below as interchangable--mostly safe)
+3---Ssh-serv(prox)
+4----Rab-serv(vpn)
+5-----*Node-serv(1st-env)
+6------Ruby-serv(prog-build/venv)
+7-------Python(Interpretator/thread)
+8--------Docker-serv(extension)
+9---------VsStudio-serv(ide-shell-frame/workspace)
+0----------*(prometheus/ansible)--cluster metric(2nd-env)
+a-----------mysql-serv(passcheck)
+b------------apache-serv(entry-contractor)
+c-------------Symbiote-Profile(psuedo-system and exploit negotiator)(just a big hackfile) with an ai-gen--(lots of extensions and base-tools)
+d--------------Spoof/Audit Remote-Debug and Applied Interceptors (Remote Application)--(networkmanager-probes between environments)
+e---------------*Corrective Data-Centers-serv(Database Mining System and Mainframe-Extensions)-(3rd enviroment and extension of Symbiote-Node+codepsells)
+x(-0-)-----------Interactive Environment between Remote Faction/Symbiote Contracts (and full extensionary department opsec)/ vocational driver-projection (gamespace-platform)--(begin symloads and event management)--CodespellSwap
+WITH steps 16-25:
+**ATTEMPTING TO CHANGE THIS LAYOUT so that any can be SOURCE-EMITTERS or HOST to ZABBIX-SOURCING (easier that way when ever they get switched to something, however that requires XTACT BRIDGES of the EMITTER-CONNECTIONS being DECODED CORRECTLY to A DESIRED FORMAT
+BASICALLY WE START DIVING INTO THE DEEP HERE:
+16 +VHMIG MINECRAFT
+17 +VHMIMG UBUNTU
+18 +VHMIMG WINDOWS
+19 +VHMIMG VIRTUALMACHINE
+20 (+VHMIMG-ZABBIX INSIDE MINECRAFT)
+--SOURCECAPABLE-BLACKBOX-VHM-IMG ACHEIVED (but zero value conflicts prevent exchange of data)--here is the build anyway
+THEN WE DIVE OUT AND RESURFACE (technically from that deep)--carrying the pearl-data
+21 -VHMIMG MINECRAFT
+22 -VHMIMG UBUNTU
+23 -VHMIMG WINDOWS
+24 -VHMIMG VIRTUALMACHINE
+25 -VHMIMG-ZABBIX INSIDE MINECRAFT)
+--NOW THE SOURCECAPABLE-BLOCKBOX-VHM-IMG-ACHIEVED IS EITHER NULLIFIED---or we perform the correct proceduration of that pearl data to extract the nox-property. (SO THERE IT IS, right under our noses and we cant even touch it)
 
 3/17/2024
 DISCLAIMER REMINDER (YOU HAVE TO READ THIS IF YOU USE MY SYSTEM IN ANYWAY) YOU KNOW HOW IT IS, LEGAL SPIELGAL ALL THAT JAXX.
