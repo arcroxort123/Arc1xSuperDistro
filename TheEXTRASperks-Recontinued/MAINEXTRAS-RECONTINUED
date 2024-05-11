@@ -1044,5 +1044,10 @@ Nothing-Substance (potion/no-effect)
 Clear-Drain(poison lense effect)
 Numbing-Sharpness (ploss/tearing)
 SandRip(storm or hypervisory status)--(liquid effect)
+--Lvl 3
+Stress-Reverb
+Radiactive-heat
+Still-Static-Webbing
+Physx/Expiry GlancingBlows
 --NonImportant
-Others Misc/Obvious Indicators/Stress-Reverb/Radiactive-heat/Still-Static-Webbing
+Others Misc/Obvious Indicators
