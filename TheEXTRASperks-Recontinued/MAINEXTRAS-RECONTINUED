@@ -1040,9 +1040,9 @@ Pressure-Mag
 Gaseous-Sharpness
 Sharpness-Knifing
 --Lvl2
-Nothing-Substance
-Clear-Drain(poison)
-Numbing-Sharpness
-SandRip(storm or hypervisory status)
+Nothing-Substance (potion/no-effect)
+Clear-Drain(poison lense effect)
+Numbing-Sharpness (ploss/tearing)
+SandRip(storm or hypervisory status)--(liquid effect)
 --NonImportant
 Others Misc/Obvious Indicators
