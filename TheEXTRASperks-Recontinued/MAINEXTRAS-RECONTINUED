@@ -1569,6 +1569,7 @@ Alright so here we go there
 There are polarization issues that can occur in EMF/EPG settings this is actually helpful to note in a variety of ways.
 That forms a complex:
 
+This is more or less the entire signature of a program/byte (with or without it being exlusive or active to the signature)
 1Contact/Lense(obj) --Parameter
 2Paradigm/Node --Parse
 3Simulation --Sector
