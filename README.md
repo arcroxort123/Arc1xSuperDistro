@@ -41,3 +41,8 @@ Generated Endworks --- (Harmonizer/Utopia--"Endotropic Codeworks")
 Addons for Node Interaction and Routing
 "SpiderLair + Xpresto" Addons --- (Entrypoint Tunneling System(Interactive BackUps) and Priority-Lane-Allocation(Adjacency Proxy-Organization)
 QuantumTeleportation+VirtualDataSupport
+
+---
+4 months later:
+5/21/2024 (noonies)
+Alrighty I think we are done and this is all ready to be coded. Unless I missed something else not really necessary, we can start this thing up once its all coded!
