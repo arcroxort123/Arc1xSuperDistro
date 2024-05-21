@@ -1,4 +1,4 @@
-(READER BEWARE) Quantum Physics and Psuedo Science were USED HEAVILY.
+READER BEWARE Quantum Physics and Psuedo Science were USED HEAVILY
 ---
 
 Legacy - Surmisal of a Robotic Engineering and Fabrication (Jump Start from a power-system) point requirements established later anyways or at least in description. 
@@ -50,6 +50,7 @@ QuantumTeleportation+VirtualDataSupport
 Looks like I ended up adding more to the ExoTool-Systems by adding parts 4-10
 Also I went and completed the Extras (of what I could salvage together)--it ended up being worth it.
 We also touched up the extras with references, which ended up being a huge overhaul to what it would have been. Now we are using Federations/Mascots and a Nox--Anima--Dragon Tiered-(Nexus/Lotus/Sanctum)-System--we upgraded the system as well as everything in the world. 
-But what IS IT even like? It's basically if Minecraft World/Nether/Ender Modes were turned made into 2.0-versions met with Stable-Diffusion. 
+
+But what IS IT even like? It's basically if Minecraft World/Nether/Ender Modes were turned made 2.0-versions met with Stable-Diffusion. 
 I am sure there are other ways to describe it, but we really went the extra-mile for it.
 Alrighty I think we are done and this is all ready to be coded. Unless I missed something else not really necessary, we can start this thing up once its all coded! It 
