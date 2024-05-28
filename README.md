@@ -1,5 +1,6 @@
 READER BEWARE Quantum Physics and Psuedo Science were USED HEAVILY
 ---
+THIS PROJECT REPRESENTS A SELF-AUTOMATED SYSTEM FOR DATA-MANAGEMENT AND SO FORTH, INVOLVING METADATA AND VIRTUALLY-SIMULATED-NAVIGATIONS (STILL IN TEST STAGES)
 
 Legacy - Surmisal of a Robotic Engineering and Fabrication (Jump Start from a power-system) point requirements established later anyways or at least in description. 
 *(Originally Built In MineCraft and a few other Games with game references) :-/
