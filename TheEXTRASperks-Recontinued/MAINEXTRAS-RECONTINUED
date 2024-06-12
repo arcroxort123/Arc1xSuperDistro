@@ -2393,7 +2393,7 @@ PREDRAGON PRODUCT and Equilibrium --REFLINE 1900
 POST DRAGON PRODUCT PROFILE/Transmit(Flux) --REFLINE 1950
 Advancements
 We re-write a print/imprint Dragon Product to NU-DEFAULTS --REFLINE 1975
-We describe a Default-Dragon-Utility --RefLINE 2000
+We describe a Default-Dragon-Utility (and allow product containment/refinement)--RefLINE 2000
 We establish a Dragon-DATA-SCRAPING PLATFORM/Charter REFLINE 2050
 We developed an enhanced dragon-theory. --REFLine 2100
 We developed a dragon-chip/reprogrammability --REFLINE  2150
