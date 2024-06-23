@@ -2897,6 +2897,7 @@ Since the whole region can be hotswapped into this cyclical process and hotswapp
 this process can also be configured to a meta-default so that if something goes awfully bad it can pick up from where it defaults as a working backroll (which is what its intended to do be used for).
 it will meta-flash the image-state to a working-rendition as the inverted gamespace.
 ---
+6/23/2024
 FINALLY we incorporate the blackbox computer that we build such a long time ago and begin to open and browse it through brokering. In this way we can host the blackbox, have it filter information, and see that information as it would be managed by data-tracking, by mounting it as the program over the meta-thermals.
 This allows for auto-charter of the blackbox computer state, since we already know it will more or less work but how that works may be subject to change, we can now track its every tendancy to work and create custom nueral networking of that.
 
