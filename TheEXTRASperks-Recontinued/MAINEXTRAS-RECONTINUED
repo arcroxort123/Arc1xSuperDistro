@@ -3084,7 +3084,8 @@ If necessary an emulated flash state can be supported such to express floating s
 ---
 Automatic landing of floating-packets/images etc. (Floating Sim AUtolanding and auto-intepretation)
 ---
-TimeBomb De-weaponization---this is a codejacking that is somewhat finessed/brute forced and may vary under signal strengths to decompose etc. Although it is assumed any time-bomb severity can be dismantled it is not garunteed. Known timebomb severities include :  (ZeroTEST-null)/MINOR/normal/MAJOR/Boss-Like/HYPERCLUTCH which are regarded as weaponized time-bombs that can be dismantled in terms of severity a scale of (0)1-5. HyperClutch may be assumed super-cells that encompass nullstates that disguise severity, and may take hours to de-weaponize in comparison to the mere seconds to minutes a minor may take.
+TimeBomb De-weaponization---this is a codejacking that is somewhat finessed/brute forced and may vary under signal strengths to decompose etc. Although it is assumed any time-bomb severity can be dismantled it is not garunteed. Known timebomb severities include :  (ZeroTEST-null)/MINOR/normal/MAJOR/Boss-Like/HYPERCLUTCH which are regarded as weaponized time-bombs that can be dismantled in terms of severity a scale of (0)1-5. HyperClutch may be assumed super-cells that encompass nullstates that disguise severity, and may take hours to de-weaponize in comparison to the mere seconds to minutes a minor may take. This may also result in some mild-cooldown-effects/drawbacks
+'These have been more or less tested/proven by an algorithmic-brain' to perform under mild-duress/comfort-zoning of the timebombs.
 
 
 DISCLAIMER FOR ALL EXTRAS FILES AND REFERENCE
