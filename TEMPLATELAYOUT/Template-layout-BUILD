@@ -84,4 +84,4 @@ This may lead to some BROKEN-ENDS  fairly quickly but might work at some point s
 All I need to nkow it that it works somewhat based off the documentation of the overall project to be able to tell
 
 There is also a very quick way to do this.
-Is to set every word in the document to its spacing, a brand new line, remove all its duplicte words, and keep only unique words, given each line an index number, and just use the index numbers as they are to represent everything covered in the document, sure some don't work and some repeat themselves, but what do I care, just throw it together until something craps out.
+Is to set every word in the document to its spacing, a brand new line, remove all its duplicte words, and keep only unique words, given each line an index number, and just use the index numbers as they are to represent everything covered in the document, sure some don't work and some repeat themselves, but what do I care, just throw it together until something craps out. This doesnt really work though because I typo'ed alot of things, so of course there might be repititions, but I don't care and I am that lazy.
