@@ -88,3 +88,7 @@ Is to set every word in the document to its spacing, a brand new line, remove al
 IMO its way easier than coding it together, by formulating all that into a build, and expecting the one way you do it to work, there should be many chances that it would work in other ways/arranged.
 There may be some roadblocks per-sae but it will eventually find parts and bits that work really well maybe even better than what I had intended them for but I don't want to spend the brainpower figuring it out anymore.
 There is also another way: and that is to convert EVERY WORD into its own value and just turn the fatfile/document into a translated version of that and hope it just builds properly through trial and error, it can more or less fix or overwrite itself to however it would, in a perfect world with excellent ai, this might be possible. For me though, nothing is possible anymore because everything is out of my ability to even test.
+
+The way I have said above, with the tiny little pyramids of their directories splayed out, is a good start.
+That by some mixture of each build co-operatively symlinking to each other it can be possible, there might be some wasted paths/data entries but its not big deal.
+And also Its really just a tiny bunch of triangulated-pathways until it all works (probably even down the the ultimated end-points, that they do so)---so I guess a little extra space is not a big deal, because its JUST A LITTLE EXTRA SPACE that doesnt really matter.
