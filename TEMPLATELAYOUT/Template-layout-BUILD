@@ -76,6 +76,7 @@ and so on or something like that then that would be named as whatever it needed 
 
 and this is how i mostly want to be able to do things is as lazily as possible:
 c234,c34,2,g45,g4,45,h,4j.4hbn,4,b4,b4,b45,b4,5b,45,4,b54,4,b,45b,42,b,54b4,b,4bh,rfg,bet,b6,b,6b,467 and that would make something eventually
+this plus using other symbols and groups under parentheses, i just dont have the time to think about it, but would denote how the system works and behaves based on its priorities and builds.
 
 so if we already know what we make can be written out in someway as to this ultimately, we can break it up piece by piece too, and just mix all those pieces in some way to a string of random-interpreated numbers/letters indexed  to themselves being the new version of whatever it was originally built as. This is a way to be super lazy and just randomize something until it works in some way or by some part.
 Then excerpt the parts that work with other parts to see what i can build without having to actually look anymore at everything all at once.
