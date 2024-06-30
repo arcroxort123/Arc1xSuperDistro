@@ -160,3 +160,6 @@ so that
 
 And maybe that makes things better/easier (but really I don't think it does help much at all except to do things this way and make it only that the system ever corrects itself to rely complicitly on this way of doing things anyway)--which is not always good, but if you have to crack it all open it at least makes it so you won't accidentally screw up everything. I think? I dunno.
 So now we need to build the SYSTEM/SERVER/SERVOS/LANGUAGE to make that all make sense, which is easy to do, its just that I am still not sure if it works the way I want it to, but its easier said than done so I am JUST SAYING IT.
+---
+THE OTHER PART is that it goes completely corrupt and needs to be restructured anyway.
+THIS IS WHAT HIS WHOLE TEMPLATELAYOUT IS SUPPOSED TO DO, and if it doesnt do that, well then, at least we tried, because if it all goes COMPLETELY CORRUPT UPON A TEMPLATELAYOUT, well at least we have a TEMPLATELAYOUT that maybe would be worth trying to recover at all. Whereas, we would just have absolute-garbage and would only be able to datamosh it/salvage it as nothing it used to be.
