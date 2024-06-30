@@ -117,3 +117,20 @@ Count:/1-5/6-10/(+meta-exact/stat-value)
 --|--|--|--|--|--|--|--|--|--ARRAY(+meta-exact/stat-value)
 
 or you know...some absolute bullshit as to how the whole block/sector of this data would be interpreted per line
+and is more like a massive-hybrid/encrypted token that is under constant change of itself as well so even now its even more dumb
+
+
+MAIN(+meta-exact/stat-value)!!(TOKEN-STEP)
+--SUBSYSTEM(+meta-exact/stat-value)!!(TOKEN-STEP)
+--|--MODULES(+meta-exact/stat-value)!!(TOKEN-STEP)
+--|--|--SUBMODULES(+meta-exact/stat-value)!!(TOKEN-STEP)
+--|--|--|--CHAPTER(+meta-exact/stat-value)!!(TOKEN-STEP)
+--|--|--|--|--META(+meta-exact/stat-value)!!(TOKEN-STEP)
+Count:/1-5/6-10/(+meta-exact/stat-value)!!(TOKEN-STEP)
+--|--|--|--|--|--CHAIN(+meta-exact/stat-value)!!(TOKEN-STEP)
+--|--|--|--|--|--|--CHUNK(+meta-exact/stat-value)!!(TOKEN-STEP)
+--|--|--|--|--|--|--|--FLUX(+meta-exact/stat-value)!!(TOKEN-STEP)
+--|--|--|--|--|--|--|--|--SecurityLevel(+meta-exact/stat-value)!!(TOKEN-STEP)
+--|--|--|--|--|--|--|--|--|--ARRAY(+meta-exact/stat-value)!!(TOKEN-STEP)
+
+with !! being any other bullshit that would occur inbetween the synchronizations taking place. So yeah, impossible for me to even explain right.
