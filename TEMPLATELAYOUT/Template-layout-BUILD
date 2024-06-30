@@ -96,3 +96,24 @@ That by some mixture of each build co-operatively symlinking to each other it ca
 And also Its really just a tiny bunch of triangulated-pathways until it all works (probably even down the the ultimated end-points, that they do so)---so I guess a little extra space is not a big deal, because its JUST A LITTLE EXTRA SPACE that doesnt really matter.
 I might estimate there are only about 3600 triangulated-components in this way, and maybe at most 36,000 or so, to really have to sort through, and TBH that can be done in a day just to see everything (not typically to understand it all, but to actually just put it away in a box on a shelf is something easier to think about)
 Now to begin to understand of it is like trying to decipher a kaeleidoscope of information and all its tiny patterns and ways it makes itself logical in some way.
+--
+Further more we would have a triangle that might have an endpoint to each string of it such that it translates to a corrective meta for when it is in expression of being under protocol/policy for which may influence/denote its reposnsive behavoirs at all as well.
+And that is why I kind of stop caring as to making it all a single-instance build, because the meta involved might just overcomplicate things and changeout other details anyways, that at the end for every code-string involved in this directory-assistance, a meta-protocol would be applied.
+so that would also look slightly different too in the setup being something like:
+
+
+
+MAIN(+meta-exact/stat-value)
+--SUBSYSTEM(+meta-exact/stat-value)
+--|--MODULES(+meta-exact/stat-value)
+--|--|--SUBMODULES(+meta-exact/stat-value)
+--|--|--|--CHAPTER(+meta-exact/stat-value)
+--|--|--|--|--META(+meta-exact/stat-value)
+Count:/1-5/6-10/(+meta-exact/stat-value)
+--|--|--|--|--|--CHAIN(+meta-exact/stat-value)
+--|--|--|--|--|--|--CHUNK(+meta-exact/stat-value)
+--|--|--|--|--|--|--|--FLUX(+meta-exact/stat-value)
+--|--|--|--|--|--|--|--|--SecurityLevel(+meta-exact/stat-value)
+--|--|--|--|--|--|--|--|--|--ARRAY(+meta-exact/stat-value)
+
+or you know...some absolute bullshit as to how the whole block/sector of this data would be interpreted per line
