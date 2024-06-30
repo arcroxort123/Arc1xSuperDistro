@@ -136,3 +136,26 @@ Count:/1-5/6-10/(+meta-exact/stat-value)!!(TOKEN-STEP)
 with !! being any other bullshit that would occur inbetween the synchronizations taking place. So yeah, impossible for me to even explain right.
 but what it means is that END2END encryptions will mostly be matched as correctly as possible despite each of the components having extreme varaibles in their nature to synth/commit and (THIS ENSURES ALSO that not only the data would be matched but also there would be no loss or constraint/conflict that is made an issue of "retaining said data over its expression")---and also it takes a little bit longer to compute the more complicated something is and to me this is "stupidly complicated" but thats how it is i guess.
 And why? Because maybe one split-second the wifi basically goes woosh and wipes everything into nothingness.
+And I am hesitant to say it but maybe its because of cluster-approximation in routing or floating lamps as to being so sensitive as to why this occurs. I DONT KNOW, I am just plain sorry I don't know enough to really know.
+But let's for a second take a pause and try to set this up for LAMPS/SIMBITS to incorporate this supposedly EASE-OF-ACCESS thing we are making for "FAST-TRACKING" a build by random.
+
+That we add the idea of what it might be in front of it all:
+(DUMBLAMP-1 with MAYBE SIMBITS or SOME WIFI PROBLEM):
+
+(DUMBLAMP-1)MAIN(+meta-exact/stat-value)!!(TOKEN-STEP)
+(DUMBLAMP-1)--SUBSYSTEM(+meta-exact/stat-value)!!(TOKEN-STEP)
+(DUMBLAMP-1)--|--MODULES(+meta-exact/stat-value)!!(TOKEN-STEP)
+(DUMBLAMP-1)--|--|--SUBMODULES(+meta-exact/stat-value)!!(TOKEN-STEP)
+(DUMBLAMP-1)--|--|--|--CHAPTER(+meta-exact/stat-value)!!(TOKEN-STEP)
+(DUMBLAMP-1)--|--|--|--|--META(+meta-exact/stat-value)!!(TOKEN-STEP)
+(DUMBLAMP-1)Count:/1-5/6-10/(+meta-exact/stat-value)!!(TOKEN-STEP)
+(DUMBLAMP-1)--|--|--|--|--|--CHAIN(+meta-exact/stat-value)!!(TOKEN-STEP)
+(DUMBLAMP-1)--|--|--|--|--|--|--CHUNK(+meta-exact/stat-value)!!(TOKEN-STEP)
+(DUMBLAMP-1)--|--|--|--|--|--|--|--FLUX(+meta-exact/stat-value)!!(TOKEN-STEP)
+(DUMBLAMP-1)--|--|--|--|--|--|--|--|--SecurityLevel(+meta-exact/stat-value)!!(TOKEN-STEP)
+(DUMBLAMP-1)--|--|--|--|--|--|--|--|--|--ARRAY(+meta-exact/stat-value)!!(TOKEN-STEP)
+
+so that 
+(DUMBLAMP-1)=(DUMBLAMP-1) regardless of WIFI-PROBLEM/SIMBIT-USAGE
+
+And maybe that makes things better/easier (but really I don't think it does help much at all except to do things this way and make it only that the system ever corrects itself to rely complicitly on this way of doing things anyway)--which is not always good, but if you have to crack it all open it at least makes it so you won't accidentally screw up everything. I think? I dunno.
