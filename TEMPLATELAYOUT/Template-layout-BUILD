@@ -59,3 +59,25 @@ Count:/1-5/6-10/
 
 Each module might hav a number/letter corresponsind a different name under its index. It may also be represented in a count of how many modules are at that buildpoint or something to the effect of what to use with what else or together, or to keep out of.
 I don't have a code for this and I am too tired to see if it makes sense, the point is this is a lazy way to do things but maybe makes more efficient prep-work for codes to work.
+
+So now we could have like---a major build work with other major builds and program them to work in order to their priorities under request by appearence or something.
+1,13,17,3,2,299,133,120,1560,150,200:name 
+
+And that would typically be something with many other things working as a uniform/product based of whatever it is. And whatever it makes comes out as whatever it is.
+1245:product
+
+So if you wanted 1245 and you wanted it with a count of 10 or new-build-type or something it can be contracted lazily written out as:
+(1245;10):name
+--1
+--|--2
+--|--3,4,15,(60;3),35
+
+and so on or something like that then that would be named as whatever it needed to be named and then it can be given an index number i guess or special-case-name maybe call it 1245P or something
+
+and this is how i mostly want to be able to do things is as lazily as possible:
+c234,c34,2,g45,g4,45,h,4j.4hbn,4,b4,b4,b45,b4,5b,45,4,b54,4,b,45b,42,b,54b4,b,4bh,rfg,bet,b6,b,6b,467 and that would make something eventually
+
+so if we already know what we make can be written out in someway as to this ultimately, we can break it up piece by piece too, and just mix all those pieces in some way to a string of random-interpreated numbers/letters indexed  to themselves being the new version of whatever it was originally built as. This is a way to be super lazy and just randomize something until it works in some way or by some part.
+Then excerpt the parts that work with other parts to see what i can build without having to actually look anymore at everything all at once.
+
+This may lead to some BROKEN-ENDS at some point but I just don't care.
