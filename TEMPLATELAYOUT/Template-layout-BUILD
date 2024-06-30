@@ -1,4 +1,61 @@
 6/29/2024
 
 This is to ATTEMPT to illustrate a build based off the documentation and all its assets in some way.
+I am trying to make it look like it has a structure.
+I am trying to make sure it has selections where necessary. 
+I am trying to make sure these selections can be profiled/macro's and other pre-builds/templates. 
+I am trying to make sure these depths/layers can hybrid with others as necessary.
 
+Here is a 10-DEEP Layer. I just decided to type together IDK if it makes sense but it simulates the first couple of parse-structures too with some other buzzwords.
+The TEMPLATE:
+
+MAIN
+--SUBSYSTEM
+--|--MODULES
+--|--|--SUBMODULES
+--|--|--|--CHAPTER
+--|--|--|--|--META
+Count:/1-5/6-10/
+--|--|--|--|--|--CHAIN
+--|--|--|--|--|--|--CHUNK
+--|--|--|--|--|--|--|--FLUX
+--|--|--|--|--|--|--|--|--SecurityLevel
+--|--|--|--|--|--|--|--|--|--ARRAY
+
+
+Here is what it would look like if it was more detailed and specific to what each part does or tries to service:
+The EXAMPLE: 
+
+AUXILLIARY
+--REFINERY
+--|--REACTOR
+--|--|--GAMESPACE
+--|--|--|--DYNAMO
+--|--|--|--|--MARKET
+Count:/1-5/6-10/
+--|--|--|--|--|--Recursory
+--|--|--|--|--|--|--Factory
+--|--|--|--|--|--|--|--Dynamic/Static/Random/As-IS
+--|--|--|--|--|--|--|--|--(Strong)
+--|--|--|--|--|--|--|--|--|--(Power)/Data/Light/Source/Heat/Waste/Water/Fuel/Crypto/(idk)
+
+
+----So that's there, now we can go down through out module lists/index/registery of all things we suggest build or build together as or in some way correalate/conjugate to a more advanced thing if possible.
+But let's assume we have like 1-2000 parts.
+So we can be lazy and replace the words with numbers.
+
+0:name
+--1
+--|--2
+--|--|--3
+--|--|--|--4
+--|--|--|--|--5
+Count:/1-5/6-10/
+--|--|--|--|--|--6 or 6b
+--|--|--|--|--|--|--7
+--|--|--|--|--|--|--|--8a(8b)(8c)(8d)
+--|--|--|--|--|--|--|--|--(9;30)
+--|--|--|--|--|--|--|--|--|--10  or 11 and 12 or 13
+
+Each module might hav a number/letter corresponsind a different name under its index. It may also be represented in a count of how many modules are at that buildpoint or something to the effect of what to use with what else or together, or to keep out of.
+I don't have a code for this and I am too tired to see if it makes sense, the point is this is a lazy way to do things but maybe makes more efficient prep-work for codes to work.
