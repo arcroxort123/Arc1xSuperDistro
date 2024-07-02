@@ -36,7 +36,7 @@ the second nutensor is used as a magnetic linkup (of new symbols) for remodeling
 the third nutensor consists of advanced symbols which is translatd over the nuimage + (might use the first transformer)
 the nuimage is then presented in comparitive of the first image, and effectively its own activation made fully realized. + (might use the first tensor or any transformer it desires at any stage thereof in optimization of finalization)
 
-to put it as simply as possible, it uses all permutation of its reactive prompts from most complex to least complex like a sweeping signal in its generation
+to put it as simply as possible, it uses all permutation of its reactive prompts from most complex to least complex like a sweeping signal in its generation (these may contain only 5-8 steps and seem completely normal, with just variable degrees of configurations and extended active mapping)
 this is already built in to the render process but i decided to make a llm out of it incase to explain how algorithms would get chopped up
 
 
