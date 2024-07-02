@@ -11,8 +11,10 @@ to third transformer
 to NUtensor
 to a NuImage
 
-Looks like this
+Major process Looks like this
 |-[]-==-==-==-{}-|
+
+it can have other modules involved and basically cook/bake as needed between those models. Similar to how iree/mlir might work.
 
 
 the way its done is alternating a verticle/horizontal dataflow
