@@ -29,8 +29,9 @@ the 7776-23328 range because ((3*96)3) *3 again to make it more 3d like or ((3*9
 3*23328 just to cover my ass with permutations (69,984)---not sure if necessary or not which is good and ok if it isnt idc
 The NuImage and however much computation it takes to assemble.
 
+Either I need to redefine which algorithms to use or not, IDC.
 
-
+------THE EXAMPLE PROMPT
 This works easily as having a prompt (sample of 3 per rgb why not)
 the prompt is cut up into pieces over a tensor (activation map)
 those pieces are collected from near zero quotients (pieces that matter and pieces that dont) in the second
