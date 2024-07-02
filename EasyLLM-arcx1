@@ -30,7 +30,7 @@ it is recycled basically to make this before intepretation
 ---
 second half
 ---
-the nu tensor which is a novel idea im using
+the nu tensor which is a novel idea im using (may work backwards from its finalization and optimize it further)
 takes the third, and uses the 3d-activationmap/tensor as a under-the-hood zeroquotient---reasssembling to a second nutensor
 the second nutensor is used as a magnetic linkup (of new symbols) for remodeling of the third nutensor
 the third nutensor consists of advanced symbols which is translatd over the nuimage
