@@ -15,10 +15,20 @@ the way its done is alternating a verticle/horizontal dataflow
 We use an image(base-grid-read)---(config rgm or 3, primary/ color recognition or word-construction etc)
 We use a tensor (vertical by column)(converted grid: active map with zero-quotients or filtered content)--matrice(number array)---(config 96 or so, typical schemes/major differences or word flow)
 it is sent over transformer (horizonal by row)(2d with recompiled active map with zero-quotients or filtered content)--magnetlink(formatting)--(config 288 or so, activemap is trying different colors shading or sentence/languages)
-to second transformer (vertical by column)(converted 3d with zero-quotients or filtered content)--symbol(pathway/pathologic))--(config 3x96x288 or so 2,592---main objects/interesting object/background/point of reference etc complex-paragraphing starts to become obvious here)
+to second transformer (vertical by column)(converted 3d with zero-quotients or filtered content)--symbol(pathway/pathologic))--(config 3x96x3 or so 2,592---main objects/interesting object/background/point of reference etc complex-paragraphing starts to become obvious here)
 to third transformer (horizontal by row) (3d combined with zero-quotients or filtered content + active maps)--(formula/generations)---(config of 7776-23328  or IDK(more/less/???) ---it finds experimental-range and details of its own postulative resolves meaning it finds patterns in its own sampling here able to recall data/draw conclusions on its own algorithms)
 to NUtensor --(shape-like coloumn/row grid readjusted verticle/horizontal to some margin of matrice/magnet/symbol/formula)---(a practical nueral-network of its own design based on prompts and results of trained data) ---config of 69,984 (it is making merged efficient meta-data reprensented in its reconstructed tensors/transformers over a regressive-inclusive active mapping of filtered-content/zero-quotients)---(so basically it incorporates co-efficients through meta-data in its algorithm pickup)
 to a NuImage---(the optimized conditions of that nueral network in render)--(which is practically a simbit-snapshot if not quite so)---(made by the algorithmic optimization of the nutensor of config 209,952 or so (more/less/idk/none)
+
+my config follows
+BaseImage 3 Rgb, 
+96 for whatever popular reason, 24 bit atm or possible 32 idc
+96x3 or whatever reason, still 2d-like
+(3*96)3to make previous more 3d-like, 
+the 7776-23328 range because ((3*96)3) *3 again to make it more 3d like or ((3*9)*3)288 to give it a 3d range---96 is involved somewhere idc), (everything gets to be 32 bit i guess)*[----32 * 3^6] and i cant make up my mind
+3*23328 just to cover my ass with permutations (69,984)---not sure if necessary or not which is good and ok if it isnt idc
+The NuImage and however much computation it takes to assemble.
+
 
 
 This works easily as having a prompt (sample of 3 per rgb why not)
