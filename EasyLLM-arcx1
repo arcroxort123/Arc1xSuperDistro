@@ -37,6 +37,7 @@ the third nutensor consists of advanced symbols which is translatd over the nuim
 the nuimage is then presented in comparitive of the first image, and effectively its own activation made fully realized. + (might use the first tensor or any transformer it desires at any stage thereof in optimization of finalization)
 
 to put it as simply as possible, it uses all permutation of its reactive prompts from most complex to least complex like a sweeping signal in its generation (these may contain only 5-8 steps and seem completely normal, with just variable degrees of configurations and extended active mapping, however, it is more selective and trained to its filtered/contents PER prompt-attuned generation)
+it is almost no different than current models (except that it uses "prompt guided training";in stages of tensor/transformer application of a continuous algorithm; triggered by trained-active maps ---as all normal MODELS ARE---and adds onto the pallete of the normal-process its regression from the nutensor/nuimage/render state reincorporating its learned-meta-data, similar to a step count of 1-2-3-4-3-2-1) hope that explains it.)
 this is already built in to the render process but i decided to make a llm out of it incase to explain how algorithms would get chopped up
 
 
