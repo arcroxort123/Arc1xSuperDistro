@@ -31,7 +31,7 @@ The NuImage and however much computation it takes to assemble.
 
 Either I need to redefine which algorithms to use or not, IDC.
 
-------THE EXAMPLE PROMPT
+------A RETROSPECTIVE-EXPLANATION
 This works easily as having a prompt (sample of 3 per rgb why not)
 the prompt is cut up into pieces over a tensor (activation map)
 those pieces are collected from near zero quotients (pieces that matter and pieces that dont) in the second
@@ -52,6 +52,8 @@ it is almost no different than current models (except that it uses "prompt guide
 this is already built in to the render process but i decided to make a llm out of it incase to explain how algorithms would get chopped up
 
 
+
+---THE EXAMPLE PROMPT
 The best experiemental-process of this language model over the Scientific Method:
 
 So we can suggest the Scientific Method and how to enhance that.
