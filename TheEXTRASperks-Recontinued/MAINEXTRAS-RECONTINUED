@@ -3316,6 +3316,9 @@ Safety/Security/Mainframe/Customs/Policy/Setup (currently have a setup running o
 It uses a sustained-virtual-kernal that can be expressed on either software/hardware.
 The image itself using my own softwares is probably 200GB but I do not have it ready to push out. Plus its not really the final version, just enough to basically be it. (It will kind of work but its just SO CRAPPY)---it doesnt even have a game-engine incorporated, i mean it can use blender to do it but ... its not going to be fun and instant. It can use OTHER-GAME ENGINES if it has to, but its limited to what those can do. And currently, I really cant do crap but sit and stare at thing and pretend it works. 
 But I know its got all the robotics to do it in the code I just dont want to spend the next 5 years stringing it all together when its already done somewhere else, so technically...just pick a game engine. PATCH IT UP A LITTLE BIT for VR, hook it to an ai-generator and you got what I am talking about.
+CUSTOMS/POLICY/SETUP/SECURITY/SAFETY is mostly just SOFTWARE/SETTINGS/INSTALLERS/PREFERENCES worded differently, but i drew it out as the internal programming and boilerplate of the MAINFRAME--which is the working hardware and OS.
+---
+Once that's all pieced together its basically just a AI-generator-VR Game-Engine. Which is not necesary to third party as, but probably just faster anyway. I described how it would work already, but this module is essentially representative of POWER-COIL-READOUTS which is why the system works with the way I would use it with, generating off how the power-coil can supply it.
 
 
 DISCLAIMER FOR ALL EXTRAS FILES AND REFERENCE
