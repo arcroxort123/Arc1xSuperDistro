@@ -3455,8 +3455,8 @@ Surface-Zone(interactive)
 Temporary(In-Transit or Build/Assemble/Compile/Training)
 ---7-9
 Secured/Weaponized(in crisis)
-Negotiations Lock
-Interrogatins Lock
+Negotiations Lock(dungeon-remote comms/survey/scan/talks)
+Interrogations Lock(raid-remote comms/survey/scans/talks)
 ---10
 Government Asset/Diplomatic Immunity LOCK
 ---11
