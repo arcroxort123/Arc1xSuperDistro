@@ -1,24 +1,24 @@
 Program/Gui and User-Kit
 
----(user-folder/file) --pathway/pathologic (OutFit Base)
+---(user-folder/file) --pathway/pathologic (OutFit Active/Base)
 User is assigned account under privileges
 Account is granted access to character creation.
 A mech is assigned designated per character profile.
 Decorations and Xnav are applied for Mech/User command/experiences.
 
----(default/custom runtime image) (OutFit Actives)
+---(default/custom runtime image) (OutFit Modes/Swaps)
 Tutorial of Operations
 User is granted access to base/basic default or privilege profiles
 Workspace Interfaces are adjusted per profile/xpref and defaults.
 User may submit prompt/general contract/performance
 
----(loadouts/realm-optimization) (OutFit Details)
+---(loadouts/realm-optimization) (OutFit Store/Detail)
 A datascrap/collection is processed and compatibility-checked.
 UserEnd-SourceProfile/Networking(masks) and ServerSide-"Code-write/mesh"/Resources/Data/Meta-types are evaluated/profiled to Xprefs/user-Specs
 Dowsing/Dosing may take place to accomadate matchbases and interactions with/without rulesets/behavoirs.
 Markets/Method (Action Strings) / Surface Security/Catalogues and Set-Xtact/stereographic-(cat/cab) to read/print Queue/Edition "Key/Credit frame" --Adaptive-Sample (Payload/Transaction)
 
----conditions and follow ups /special cases including QOL/EOA(quality of life / ease of access) (OutFit Assigns)
+---conditions and follow ups /special cases including QOL/EOA(quality of life / ease of access) (OutFit Assigns/Fittings)
 Plugins / Extensions / Macros / Scripts may be applied.
 Sourcing and Brokering Takes place over Network connections and Bridgepoints assigned.
 CharacterParams are re-distributed through Services per Request (TableUsage of Region)/Config or "expecation/as is"
@@ -32,6 +32,7 @@ Anim/Akira Flux-Transfer by Stack/Active Sim/Bit/Sig/Pin and Void/Survey/Vox/Rif
 
 So basically to me this is an IDE that "is all-in-one" its easier described as a Photoshop/AfterEffects (but for things like AI/Blender and Rigging for Mocaps/User-Gestures) ---should be automatic (the User-Kit then assembles/compiles everything under CURRENT-Project and it is integrated as needed)---"automatic-character detailing"/trained-nuvolution. (And this includes live-action normalization/customizations over a stable-default)
 So a memetic-autoloader that just "guesses what things are supposed look like" and auto-fixes anything like a CONTROL-NET
+Any further fix/patch ups needed to correct/streamline mass-production/constants of Model.
 
 look...i'm just describing something that should already exist and rationalizing it the best way i can.
 "Cue super powers" and RNG-Code-sluething
