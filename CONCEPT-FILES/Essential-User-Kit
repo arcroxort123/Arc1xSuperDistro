@@ -2,7 +2,7 @@ Program/Gui and User-Kit
 ---
 User is assigned account under privileges
 Account is granted access to character creation.
-A mech is assigned designated per character profile.
+A mech(user-folder/file) is assigned designated per character profile.
 Decorations and Xnav are applied for Mech/User command/experiences.
 
 ---
