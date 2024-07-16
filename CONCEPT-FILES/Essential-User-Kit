@@ -21,7 +21,7 @@ Markets/Method (Action Strings) / Surface Security/Catalogues and Set-Xtact/ster
 ---conditions and follow ups /special cases including QOL/EOA(quality of life / ease of access)
 Plugins / Extensions / Macros / Scripts may be applied.
 Sourcing and Brokering Takes place over Network connections and Bridgepoints assigned.
-CharacterParams are re-distributed through Services per Request (TableUsage of Region)/Config
+CharacterParams are re-distributed through Services per Request (TableUsage of Region)/Config or "expecation/as is"
 
 ---Nutopian-Beacon/Visory-AutocCommit (dataflow)
 WorldGeneration/CharacterGeneration may be Set To Server-Event and Allowed-Entry per Cluster/Convention or Draft-Select(Where Granted)
