@@ -1,0 +1,37 @@
+This is a code that I haven't written up because its stupid and complicated and essentially elevates user permissions which end up doing alot of other stuff, delving into forcing/overwriting updates and disregarding content to the effect of token-swaps which are written in aliases.
+It rips off or also deletes the files, reports them, once it does so rebuilds them as nothing space, or empty folders. Then it can also just inject files the original files if it really wants to (straight up hueristics/histronics) and then forces token-version updates to design a patch.
+Based off whateve it says in the report, it makes a test copy of the report and in the test copy it can read and rewrite what is going to be put back in (after its done whatever it wants to do in taking out the files/folders and replacing them with nothing-copies) they can be something.
+
+First it involves asserting the TrustedInstaller Group as the Admin. And doing so by capturing the token for that, and using that token as an alias shortcut.
+And then forcing a doorman, that manages the token over its own interactive shell. At the elevated privilege of the TrustedInstaller.
+And renames itself or includes its token as the new impersonated token, for which is designated as the "NEW-DOORMAN" and that "NEW-DOORMAN" effectively outputs all its command lists to a report. By also setting-content and getting-ownership. and then forcing NEW-DOORMAN by default use.
+so that NEW-DOORMAN is now the effective TrustedInstaller it sets its report as the output and copies that output to a test-folder which catalogues all path-use and can inject/delete other impersonated files to overwrite those spaces or replace or fill in if they are empty.
+Then it makes SUB-DOORMAN for itself to emulate Ownership and FORCE-OUTPUT-REPORT-BUILD based on whatever token and file suggested by that report (so it can delete and replace things with their builds owner that particular ownership being also a TRUSTEDINSTALLER)
+---
+and by alias it would take control of a program by forcing token use over a SWAP and then SWITCH the command also to the token-ownership and the OUTPUT is under that ownership so that the BUILD is all by the NEW-DOORMAN having done what it is doing to the TRUSTEDINSTALLER to also the SUB-DOORMAN and cleanly performs all that to the IMPERSONATED-TOKEN and REPORTS IT. So it provides "proofing" as to what it is doing. (The files will still get deleted but the idea is the pathway can be rebuilt and the ORIGINAL-REGISTRY does not know the difference)
+And then the NEW-DOORMAN can also alter the registry for the tokens and imply OWNERSHIPS over the report-build files for which it injects as the replaced-path/files.
+---
+THEN THE UPDATE tries to OVERWRITE IT and that can easily be RESET per UPDATE because the tokens are fixed to the DOORMAN and can resume the PROFILE/PROJECT builds if also it backups its own PATCH. So it backs up its own patch and invokes it.
+and looks like something like:
+$self "program" $self
+Which is how the doorman asserts itself as ownership of any program. Then simple act as administrator for the necessary commands (it will report them as it has set GROUP outputs from having aliased the necessary steps).
+Where it makes the program convert to its ownership and then grants itself ownership to itself from whatever elevation/point of itself was alias'ed
+So this is the real version but it is slightly more complicated (and it gives the report and outputs to induce a new-build from forcing mkdirectory and invokes) And the registery is then altered to the IMPERSONATED TOKENS with the elevations needed from the same window and report/backup.
+---
+So the idea is to RE-BATCH a shortcut for the program to be set as the elevated usage, and now all programs can be used under top-level per the doorman's preferred token. And this can strike out other ownerships, so an automatic update WONT UPDATE the specified ownerships if they arent by the correct token indicating. And that is why impersonating the update cna be patched.
+---
+And then the doorman can reset the update and force a patch or let the UPDATE do what it wants then FORCE the patch after (so even if the update messes up what it does it can call on its profile to "QUICKFIX"/"HOTFIX" anything the update does because it takes permission/ownership of anything it would have done.
+From there just do whatever, and the fastest way is through the alias of using the DOORMAN to make a batch file shortcut.
+And using the batch file to open the program once that has happened. AND THEN ALIASING/KEYNAME of that specified "program" to always invoke to what program it could be (whether or not this is the heuristic/histronic/DOSED/ORIGINAL-program is up to you) and making the patch what it is, may just mean whatever the build says it is and the registry accepts it is as, will act as according to what was changed to it (EITHER BY THE UPDATE OR BY THE DOORMAN)---and specifcally, to the use of ELEVATIONS it will force the INTENDED USE (which could in turn be substituted as other programs by action/methods as what doormans WILL do)--and force DOORSTOPS of other programs and SWAP their token and SWITCH their path to the correct SYM-LINK/BATCH-SHORTCUT desired.
+And that is how to make NOTEPAD turn into WANNACRY, but generally speaking, if you aren't evil, you can just ignore the update and use NOTEPAD as the "CUSTOM NOTEPAD". Because that is the ethical way of doing using a DOORMAN/DOORSTOP, and that way the AUTOMATIC UPDATES/PERMISSIONS ISSUES won't be a problem because you have the REGISTRY/TOKEN/SYMLINK/PROGRAM that you actually wanted to use instead of being forced to dedicate that space for programs that you WOULDNT WANT, and if it so happens that the PATH/FILES get reset---you can quickly $self "backup" $self of that original $self "program" $self
+And TO BE HONEST, you can just use the alias to fix anything that goes wrong by reseting it to the profile you wanted. So you will have a profile of MANY BACKUPS, and it will reset them to the CUSTOM-PROGRAMS YOU WANTED.
+and that would be the third step (which is just like saying use/run DOORMAN-SAVE)
+
+but i don't want to code it because it started to SUCK when all the variables needed to go form NEW-DOORMAN to SUB-DOORMAN to "NAME/KEY" per VARIABLE-TOKEN that I just thought it would work out like:
+$self program $self
+$self backup $self
+$self patch $self
+
+and basically use run the DOORMAN or select the save you wanted as you ran the DOORMAN
+as it would reset/rename/repatch the space in which all that data was changed back to your custom program settings in which you wanted.
+
