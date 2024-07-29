@@ -232,12 +232,24 @@ It also uses memetic-quasi-application which is just saying it auto-virtualizes 
 ---
 Site-Description Take2 (Optimized Build)
   --same build nothings change just worded different
-AuxBuild(Cycling/Assortment)/Reactor-Course(reactor/small-dynamo)/Market-Obstacle-Course(market)/Electric-Grid(light)/Power-Bridge(nav)
-Analog(Post Guassian)/Nexus-Factory+Header/Meta-Course(training)/Business-District(logic-gate)
-Hyper-Assortment(Subtract-Ai)/Thermal-Rigging(bigger-dynamo/drone-sec)/Op-sec(Pulsuary/Vox)
----
-LaunchSite Route-to (pre build to launch/early prosper)
-Launchsite(full launch site + market)
-Beacon-Arena(engineering)
-Sanctum/Projector(Convention)
-Fulton-Memetic-Arenas
+
+Rail-Set:
+AuxBuild(Cycling/Assortment)/Reactor-Course(reactor/small-dynamo)/Market-Obstacle-Course(market)/Electric-Grid(light) -----(dual-FACTORY 1)
+Power-Bridge(nav)(preguassian)/Analog(Post Guassian) -----(dual-BRIDGE 1)
+
+Nexus-Factory+Header/Meta-Course(training)-----(dual-FACTORY 2)
+Business-District(logic-gate) Hyper-Assortment(Subtract-Ai) -----(dual-BRIDGE 2)
+
+Thermal-Rigging(bigger-dynamo/drone-sec) (DUAL BRIDGE 3)
+Op-sec(Pulsuary/Vox) -----(DUAL-FACTORY 3)
+
+---ProsperExtension:
+LaunchSite Route-to (pre build to launch/early prosper) (dual-Bridge-4/route)
+Launchsite(full launch site + market) (Dual factory-4/platform site)
+
+Beacon-Arena(engineering)--(dual factory 5/bridge/route/hybrid-platform)
+Sanctum/Projector(Convention)--(dual factory 6/route/hybrid-platform)
+Fulton-Memetic-Arenas --(dual factory 7 /route/bridge/hybrid-platform)
+
+Whatever else on top:
+--Endworks/Centrifuges/AutoVOX(isolated node-stack/integrated node-stacK)/Quasi-Platforms (dual factory 8 hybrid platforms)
