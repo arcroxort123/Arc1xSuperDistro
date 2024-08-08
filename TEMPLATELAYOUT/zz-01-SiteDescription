@@ -693,3 +693,4 @@ This may then be attempted in NUBOOT.
 2)Implant-Incompatibility/Desync 
 3)BootManager Redundancy (As it will not Boot properly despite other intended partitions seemingly working due of flux/incongruency to which is also under data-rate/sampling.
 ---This also occurs that the Nuboot is severely fragmented and may be crosslinked/mirrored as well under a nodestack.
+It might begin to go haywire/shortcircuit in its applications (which cut off other pipelines as well)
