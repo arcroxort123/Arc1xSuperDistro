@@ -595,3 +595,4 @@ But it all starts with the Signature/Complexes being conjuncted correctly to ach
 Formatting is somewhat important, as well as configuration, to achieve a resolve in the boot-order, and is managed through the variable secured-states/standard-approaches to a boot/load. This includes MOUNTS/Flash-Overs. (so it generally is important to note the right way admist 100's if not 1000's of other ways including dead end steps that are basically useless and broken)
 ----
 WHAT THIS MEANS is that the dark-locus can be externalized and loaded correctly to a working platform/drive.
+It can be used as a monumental hotswap as well (between its own boots or to other points)
