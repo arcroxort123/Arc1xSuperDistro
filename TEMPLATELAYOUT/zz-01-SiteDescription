@@ -637,3 +637,44 @@ Part 4:It is reassigned from its local/natives to a tethered/bridge isolated/ind
 This may occur multiple times until results are within acceptable range of interactive-capability/operation. The main goal is that it "wears itself out or becomes negotiable overtime to perform exchange of social-tasks which have no real imperative other than compliance" ---it is never changed in its level of Untrustworthiness, because of Security Risks involved. But may be released at any time.
 --Compare to using a SLAVEDRIVE to a MASTERDRIVE with seperate testing/operating systems involved of its Providence/Sovereignty/Priority/Elevations/Permissions/Allowances etc for which is Afforded through the Faction-Services and Master-Records  of the prim/raw data-collectives and data-banks etc.
 It may be strictly scheduled/routine by automation if decidedly robotic or otherwise requiring remote-interaction only.
+
+
+--
+And ENHANCED-BOOTMODEL-QUARTER
+this follows other previous bootmodel arrangements and structures them in a priority to their assignment/partition-drive
+---So this gets convaluted into what works/doesn't until something either does or doesn't.
+---This is 25 steps detailing the various ways to ensure a boot-up/load-out to be automated in a model.
+That all the profiles are made possible and all that is left is to reconfigure per the mounting of virtual disks correctly in all their variable/permutable states.
+But also it can be written out as simple as possible in a consecutive order of attempted boot-types.
+---1-3
+A direct Boot Type / Normal Install.
+A secure Install / encrypted Install.
+A compatibility Install / Disk-Type Check and Priority of its Format/Table.
+---4-9
+A virtualized flash over (scripted install using a virtual conditioned image to print) and then sourced as its print. (Pointed Install)
+A dual boot install (an Prepped-Image install to install the primary install) and used as dual boot in priority/arranged-elevation of its origin-points (source correction)
+A flash-drive install (a boot install that is pointed)
+A flash-write install (from a boot install it installs onboard/partition)
+A cut-off install (a boot is loaded and cut off then substituted to a working upgraded boot mid-install)
+A patient install (a long write install that takes time and usually fails anyway, and causes the install to restart completely because it is non-journaled/non-cached) ---considered a straight shot
+---10-14
+A selected preference install (likely capable unless driver/module's are not compatible to license and refuse to boot)---can be reconfigured to trick a boot but becomes even more convaluted and less likely for every option required (and is just as bad as a fully-raw boot)
+A fully raw boot --(all configurations are made as necessary in a regulated/rail-roaded order)--if it doesnt work it doesnt work at any point it can also be a dead end attempt
+A previous image is migrated to a new image (this works unless it also doesnt)
+A cloned drive is cloned to a new drive (this works unless it also doesnt)
+A header/kernal is assigned seperately to a cache then ---recompiled as a new operating system in a forced-write (intensive copy-over) ---this works sometimes or sometimes doesnt
+---15
+An easy swap (where the original boot is swapped out to a new boot and hopefully works)--this rarely works unless its also somehow the same boot versions/formatting or requires further adjustments which may be limited/incompatible --pro tip its also not that easy
+---16-18
+A repairs boot-up (repairs to a working boot)
+A safe-moded boot-up (its insured/insulated though maybe corrupt)
+A restored-image boot-up (an image that mostly is afforded as its own write/swap is used in place of the main-boot to boot up the main-system)
+---19-20
+A safe-backup is used to point to a new partition that is later merged into its own cache (allowing for a prep/backup to be checked per any issue it is booted)--this is the best one so far but gets "bootblocked too often to work"
+A prep-boot is supplied containing its own secondary boot to be used in its boot (this is a chambered boot that works very good "compare to ventoy")--however it doesnt always work in the end.
+--21-23
+A virutalized boot in a vmware is used in its own vmware space (this boot really sucks because its isolated to its own vmech but it works usually anyway---just doesnt do good for later virtualizations)
+A full raw-expression of Formatting/Table-Sets are Checked alongside partitions/disks and virtual/volume usage to apply a Raw-File-Platform that often fails anyway under forced-configurations/non-compatible boot-images (this is usually what always happens no matter what)
+A transcripted boot load (that requires a sort of "bash" to boot) --this works but takes long and sometimes actually doesn't point as needed. (or becomes altered by name/id/tag/index changes)
+---24-25
+
