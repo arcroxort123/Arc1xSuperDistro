@@ -690,7 +690,7 @@ SpecialCases 26-27:
 This may then be attempted in NUBOOT.
 ---the other conditions/instances that occur:
 ---This may also result in a 
-1)RAWSET-CACHE/DUMP 
+1)RAWSET-CACHE/DUMP (for which is accessible and also vulnerable---so a catch 22 there)
 2)Implant-Incompatibility/Desync 
 3)BootManager Redundancy (As it will not Boot properly despite other intended partitions seemingly working due of flux/incongruency to which is also under data-rate/sampling.
 ---This also occurs that the Nuboot is severely fragmented and may be crosslinked/mirrored as well under a nodestack.
