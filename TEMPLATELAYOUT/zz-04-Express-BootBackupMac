@@ -1,3 +1,10 @@
 8/10/2024
 So now we have put together everything. And developed a SuperCamp and it all more or less works. We don't really have to think about anything but, we need to back up all the hard work we did.
 Herein is a review of all that work and how to automate its REBUILD/RECOMPILE in case it ever needs to be repaired or reconsidered for alternative purposes/reasons in how or why it was built.
+
+We Have Exclusively Worked our way up in this way:
+SafeProtocol
+Template-layout-BUILD
+zz-01-SiteDescription
+zz-02-AfterMath-LoadOut(First Legacy Run)
+zz-03-SuperCamp
