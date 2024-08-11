@@ -677,33 +677,33 @@ But also it can be written out as simple as possible in a consecutive order of a
 A direct Boot Type / Normal Install.
 A secure Install / encrypted Install.
 A compatibility Install / Disk-Type Check and Priority of its Format/Table.
----4-9
+---4-9 (*-*)
 A virtualized flash over (scripted install using a virtual conditioned image to print) and then sourced as its print. (Pointed Install)
-A dual boot install (an Prepped-Image install to install the primary install) and used as dual boot in priority/arranged-elevation of its origin-points (source correction)
+A dual boot install (an Prepped-Image install to install the primary install) and used as dual boot in priority/arranged-elevation of its origin-points (source correction) (*-*)
 A flash-drive install (a boot install that is pointed)
-A flash-write install (from a boot install it installs onboard/partition)
-A cut-off install (a boot is loaded and cut off then substituted to a working upgraded boot mid-install)
+A flash-write install (from a boot install it installs onboard/partition) 
+A cut-off install (a boot is loaded and cut off then substituted to a working upgraded boot mid-install) (*-*)
 A patient install (a long write install that takes time and usually fails anyway, and causes the install to restart completely because it is non-journaled/non-cached) ---considered a straight shot
----10-14
-A selected preference install (likely capable unless driver/module's are not compatible to license and refuse to boot)---can be reconfigured to trick a boot but becomes even more convaluted and less likely for every option required (and is just as bad as a fully-raw boot)
+---10-14 (*-*)
+A selected preference install (likely capable unless driver/module's are not compatible to license and refuse to boot)---can be reconfigured to trick a boot but becomes even more convaluted and less likely for every option required (and is just as bad as a fully-raw boot) (*-*)
 A fully raw boot --(all configurations are made as necessary in a regulated/rail-roaded order)--if it doesnt work it doesnt work at any point it can also be a dead end attempt
-A previous image is migrated to a new image (this works unless it also doesnt)
+A previous image is migrated to a new image (this works unless it also doesnt) (*-*)
 A cloned drive is cloned to a new drive (this works unless it also doesnt)
-A header/kernal is assigned seperately to a cache then ---recompiled as a new operating system in a forced-write (intensive copy-over) ---this works sometimes or sometimes doesnt
----15
+A header/kernal is assigned seperately to a cache then ---recompiled as a new operating system in a forced-write (intensive copy-over) ---this works sometimes or sometimes doesnt (*-*)--this has really bad draw backs if it is a permanentheader-model/preferred-default (always check this setting if you are using a header/virtual-header or none/dullhan) (*-*)
+---15 
 An easy swap (where the original boot is swapped out to a new boot and hopefully works)--this rarely works unless its also somehow the same boot versions/formatting or requires further adjustments which may be limited/incompatible --pro tip its also not that easy
----16-18
+---16-18 (*-*)
 A repairs boot-up (repairs to a working boot)
 A safe-moded boot-up (its insured/insulated though maybe corrupt)
 A restored-image boot-up (an image that mostly is afforded as its own write/swap is used in place of the main-boot to boot up the main-system)
----19-20
+---19-20 (*-*)
 A safe-backup is used to point to a new partition that is later merged into its own cache (allowing for a prep/backup to be checked per any issue it is booted)--this is the best one so far but gets "bootblocked too often to work"
-A prep-boot is supplied containing its own secondary boot to be used in its boot (this is a chambered boot that works very good "compare to ventoy")--however it doesnt always work in the end.
---21-23
+A prep-boot is supplied containing its own secondary boot to be used in its boot (this is a chambered boot that works very good "compare to ventoy")--however it doesnt always work in the end. (*-*)
+--21-23 (*-*)
 A virutalized boot in a vmware is used in its own vmware space (this boot really sucks because its isolated to its own vmech but it works usually anyway---just doesnt do good for later virtualizations)
 A full raw-expression of Formatting/Table-Sets are Checked alongside partitions/disks and virtual/volume usage to apply a Raw-File-Platform that often fails anyway under forced-configurations/non-compatible boot-images (this is usually what always happens no matter what)
-A transcripted boot load (that requires a sort of "bash" to boot) --this works but takes long and sometimes actually doesn't point as needed. (or becomes altered by name/id/tag/index changes)
----24-25
+A transcripted boot load (that requires a sort of "bash" to boot) --this works but takes long and sometimes actually doesn't point as needed. (or becomes altered by name/id/tag/index changes) (*-*)
+---24-25 (*-*)
 A fated/corrupt/quixotic/omni-corrupt boot (Someone got clever and did something very wrong and caused alot of surface damages to get a boot --surprise, its all a bad sector and doesnt work)
 A boot injected by flagship and intensive THUNDER-STRIKES which work in a forced-behavoir (but require alot of resources)--as also may be counter-quartered and cause conflicts.
 ----
@@ -711,9 +711,13 @@ Look at all these god damn boots that should do something but don't because of o
 This forms a massive QUASI/OMNI-TEMPLATE of bootloads that might work eventually but usually also will fail sometimes. So now we have to reconfigure how to make any of these boots reliable at all.
 SpecialCases 26-27:
 (26)---There may also be a docked-platform boot (similar to flagship using vdecks and vmechs in some coordination of their own boot-symbiosis)/programming to boot. (or a networked assisted boot)--which is even also complciated af.
-(27) Using a raw partition from an outsourced-point of a previous boot in a remote fashion to force-write and intensive (thunder/non-thunder dependency) in which is later accelerated by any virtualization/boot-management of any quarter or previous allocation protocol. To work in or of a dynamic/typical logic chain. (which may or may not be networked/decklane assisted or independent to its own compile/whqlr over hooklines)--this is the most likely case (though hooklines still tend to fail afterwards due of configuration/conflicts issues) This might be able to "jump start as a working prep quarter to post quarter (requiring two attemps barring there is no cache-reset)
+(27) Using a raw partition from an outsourced-point of a previous boot in a remote fashion to force-write and intensive (thunder/non-thunder dependency) in which is later accelerated by any virtualization/boot-management of any quarter or previous allocation protocol. To work in or of a dynamic/typical logic chain. (which may or may not be networked/decklane assisted or independent to its own compile/whqlr over hooklines)--this is the most likely case (though hooklines still tend to fail afterwards due of configuration/conflicts issues) This might be able to "jump start as a working prep quarter to post quarter (requiring two attemps barring there is no cache-reset) (*-*)
 ---if any of these work then also use a CHECKDISK/REASSIGNMENT of its index (which may be flux) and as to perform a surface-Cycle attempt in its "kickstarting/jumpdriving/codeforming/zeroposting" etc. --(This will help to convert itself properly over a turbulence of thunder writes as well)
-This may then be attempted in NUBOOT.
+
+(28)--also there are vdeck-loaded boots very uncooperative if using it as a nuboot-for-main. this is better used as an accessory boot or after all boots are already performed and working, This may then be attempted in NUBOOT.
+(29)--and then there is the horrible "im on the partition already and i cannot leave" therefore your boot will not work, and it gets worse if you try to split or merge off of it too.
+(30)--and lastly the "im not even on a servos/server to begin partitioning correctly therefore it is doomed from the start type of boot.
+
 ---the other conditions/instances that occur:
 ---This may also result in a (MEGA-CONJUNCTION/mega-whql)
 1)RAWSET-CACHE/DUMP (for which is accessible and also vulnerable---so a catch 22 there)
@@ -910,5 +914,13 @@ SIXTH METHOD ---A CLEAR BOMB IMPLANTATION---likely can be hijacked in these ways
 This can also be induced by hijacking a MODICUM/OUPHE-NODE with its a PRIMUX or any other lesser extend of BROKERING-DEVICE in xtap/xsap/asylum/monument or otherwise mentioned thing.
 I can only describe the success rate as QUANTUMLY-swatting-a-fly-out-of-the-air-in-the-DARK. Possible? YES, but very Unlikely. And on a level of quantum-detection? Very much difficult without AI/AUTOMATION because you have to be a rain man to even guess when it is vulernable or not.
 Or maybe you get a freebie and the heavens open up and a genie grants you his Drunken-Master-wish.
+
+A clearbomb may also be similar to :
+(a very large magispheric-convey that is unidentified, 
+and or a wiped data-space)/a dock-or-deck lane/ 
+a plugin that is unscripted i guess that still has alot of "gas to fill" in its tanks--full of vaporware/aetherbases etc / 
+a vdeck that is "empty/null" or unused but more or less accounted for in open sources
+
+If the clearbomb is coded or not, it may formulate to an OUPHE-Event as well but only if encryptions have already been worked out by previous mounts/boots.
 
 Once again thank you for reading.
