@@ -55,6 +55,63 @@ ModuleNotFoundError: No module named 'minecraft'
 2024-08-11 17:14:57,459 INFO  Enter 'y' to authorise command, 'y -N' to run N continuous commands, 'n' to exit program, or enter feedback for AutoGPT...
 Input:
 
+HERE IS IT SEARCHING FOR WHAT TO DO USING GOOGLE
+
+
+2024-08-11 17:14:57,458 INFO  NEXT ACTION: COMMAND = web_search  ARGUMENTS = {'query': 'How to simulate Minecraft environments without direct game access'}
+2024-08-11 17:14:57,459 INFO  Enter 'y' to authorise command, 'y -N' to run N continuous commands, 'n' to exit program, or enter feedback for AutoGPT...
+Input: y -N
+2024-08-11 17:25:19,510 WARNING  Invalid input format. Please enter 'y -N' where N is the number of continuous tasks.
+2024-08-11 17:25:19,510 INFO  -=-=-=-=-=-=-= COMMAND AUTHORISED BY USER -=-=-=-=-=-=-=
+2024-08-11 17:25:22,070 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-11 17:25:22,072 INFO  SYSTEM: ```
+## Search results
+### "How to Run a Simple Local Minecraft Server (With and Without Mods)"
+**URL:** https://www.howtogeek.com/202958/how-to-run-a-simple-local-minecraft-server-with-and-without-mods/
+**Excerpt:** "Look in the server directory for the EULA.txt file, open it, and edit the entry "eula=false" to "eula=true" to indicate your agreement with the Mojang server user agreement. Save and close the document. Run the server command again. You can run it with or without the "nogui" tag depending on your needs/desire."
+
+### "Tutorials/Setting up a LAN world - Minecraft Wiki"
+**URL:** https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_LAN_world
+**Excerpt:** "To open an active single player world to LAN: Open the pause menu. Click "Open to LAN". Optionally change the default game mode and/or whether players may use cheats. Click "Start LAN World". It is also possible to start a LAN world by the command line with / publish . After a world has been opened to LAN, a confirmation message will be sent in ..."
+
+### "How to Host and Configure a Minecraft Server with No-IP"
+**URL:** https://www.noip.com/support/knowledgebase/how-to-host-and-configure-a-minecraft-server-with-no-ip
+**Excerpt:** "How to Host and Configure a Minecraft Server with No-IP. To get started you will need three things: Minecraft Account; Minecraft Server Software; No-IP Account; To connect to the server and play, you will need a Minecraft account. If you don't already have an account, you can create one here. Step One:"
+
+### "How to Play Minecraft With Friends: 5 Different Ways - MUO"
+**URL:** https://www.makeuseof.com/how-to-play-minecraft-with-friends/
+**Excerpt:** "Bedrock Edition: Ask for the invite code from the creator of the Realm—we only need the characters after "realms.gg/". Launch Minecraft, then click Play. Head to Friends and click on Join Realm. Enter the invite code you received from the Realm owner and click Join . 4."
+
+### "How to Set Up a Simple No-Stress Minecraft Server with Minecraft Realms"
+**URL:** https://www.howtogeek.com/237174/how-to-set-up-a-simple-no-stress-minecraft-server-with-minecraft-realms/
+**Excerpt:** "By default there are no players. Select "Invite player" and input their Minecraft username when prompted. Once you've invited one or more players you'll see them in the "Invited" roster (names blurred here to protect the privacy of our helpful Realms testers). Note the red X and the gray badge icon beside their names."
+
+### "Aternos | Minecraft servers. Free. Forever."
+**URL:** https://aternos.org/:en/
+**Excerpt:** "Free. Forever. Your very own Minecraft server, the only one that stays free forever. Language . ... Games Minecraft: Java Edition. Vanilla Snapshots For the original survival multiplayer experience. ... Share access Don't run your server alone. Share access with your friends and manage your server together."
+
+### "[Tutorial] How to set up a locally hosted building ... - Planet Minecraft"
+**URL:** https://www.planetminecraft.com/blog/tutorial-how-to-set-up-a-locally-hosted-building-server-in-minutes/
+**Excerpt:** "Simply boot Minecraft using the same version as the server jar, go to your server list, and add your server or simply join directly using the IP 'localhost'. If your server is running, you will join it instantly. To stop your server, you can type /stop in your game chat, or simply type 'stop' in the command kernel."
+
+### "How to Play Online and Local Multiplayer | Minecraft｜Game8"
+**URL:** https://game8.co/games/Minecraft/archives/377150
+**Excerpt:** "Step 1: Choose a host computer. This computer should be fast enough to play Minecraft while simultaneously running a server for other players. Step 2: Launch the game and select Single Player. Step 3: Create a new world or open an existing one. Step 4: When inside the world, open the settings and select Open to LAN."
+```
+2024-08-11 17:25:24,349 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-08-11 17:25:24,378 INFO  AUTOGPT THOUGHTS: I should proceed by setting up a local Minecraft server to simulate the gamespace and township creation.
+2024-08-11 17:25:24,378 INFO  REASONING: Setting up a server locally can help simulate the Minecraft environment needed for the task.
+2024-08-11 17:25:24,378 INFO  PLAN:
+2024-08-11 17:25:24,378 INFO  -  Set up a local Minecraft server to simulate the gamespace and township creation
+2024-08-11 17:25:24,378 INFO  CRITICISM: I should have considered setting up a Minecraft server as an initial step when faced with limitations in executing Minecraft-related code.
+2024-08-11 17:25:24,378 INFO  SPEAK: I will set up a local Minecraft server to simulate the gamespace and township creation for the task.
+
+2024-08-11 17:25:24,378 INFO  NEXT ACTION: COMMAND = execute_python_code  ARGUMENTS = {'code': 'minecraft_server = setup_local_minecraft_server()'}
+2024-08-11 17:25:24,378 INFO  Enter 'y' to authorise command, 'y -N' to run N continuous commands, 'n' to exit program, or enter feedback for AutoGPT...
+Input:
+
+
+
 
 
 
