@@ -666,7 +666,7 @@ It may be strictly scheduled/routine by automation if decidedly robotic or other
 This also allows thunder-writes/turbo-acceleration in extreme cases to its compliance.
 
 
---
+--Please see EXPRESS-BOOT-BACKUPMAC for more details that are just as poorly explained. (*-*) are problem areas in the boot progression where partitions are bad. Infact, its so bad, i might be wrong about the actual placement of that problem area, and it might be unlisted or in another step. IDK/IDC (its exhausting)--these problem areas exist though.
 And ENHANCED-BOOTMODEL-QUARTER
 this follows other previous bootmodel arrangements and structures them in a priority to their assignment/partition-drive
 ---So this gets convaluted into what works/doesn't until something either does or doesn't.
@@ -922,5 +922,6 @@ a plugin that is unscripted i guess that still has alot of "gas to fill" in its 
 a vdeck that is "empty/null" or unused but more or less accounted for in open sources
 
 If the clearbomb is coded or not, it may formulate to an OUPHE-Event as well but only if encryptions have already been worked out by previous mounts/boots.
+Please see EXPRESS-BOOT-BACKUPMAC for more details that are just as poorly explained.
 
 Once again thank you for reading.
