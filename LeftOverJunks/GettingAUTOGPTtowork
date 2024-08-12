@@ -48,6 +48,7 @@ and
 wsl --setdefault version 2
 
 and it wouldnt work no matter what any of the options were for hypervisor/virtualplatforms/subsystem whether or not the subsystem was there to be used or not, or the DISTRO-virtualdisk was REINSTALLED/DELETED/REFRESHED/RENAMED even in registry too!
+I might be wrong, but I WASTED a whole TWO DAYS because I am that stubborn to figure that out.
 ---ITS JUST THAT STUPID FOLKS! IF YOU HAVE THAT PROBLEM, you have to REINSTALL!
 ***************************************************************************
 
