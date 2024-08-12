@@ -180,4 +180,4 @@ Have a working OS with WSL or any other distro.
 Be able to use visualcode or any other IDE
 be able to integrate docker to that
 be able to use Python/Git to install things it will have
-download and get to the AutoGPT folder and set your Api/SK in the env file (get the right folder too)---AND MAKE SURE TO UNCOMMIT THOSE HASH SYMBOLS.
+download and get to the AutoGPT folder and set your Api/SK in the env file (get the right folder too)---AND MAKE SURE TO UNCOMMIT THOSE HASH SYMBOLS (cuz i damn sure forgot to).
