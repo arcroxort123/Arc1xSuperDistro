@@ -49,7 +49,14 @@ wsl --setdefault version 2
 
 and it wouldnt work no matter what any of the options were for hypervisor/virtualplatforms/subsystem whether or not the subsystem was there to be used or not, or the DISTRO-virtualdisk was REINSTALLED/DELETED/REFRESHED/RENAMED even in registry too!
 I might be wrong, but I WASTED a whole TWO DAYS because I am that stubborn to figure that out.
----ITS JUST THAT STUPID FOLKS! IF YOU HAVE THAT PROBLEM, you have to REINSTALL!
+---ITS JUST THAT STUPID FOLKS! IF YOU HAVE THAT PROBLEM, you have to REINSTALL EVERYTHING!
+and guess what, thats REALLY HARD TO DO.
+
+I had to get my expansion drive. then get VMWARE. then the WINDOWS.iso to select it. INSTALL IT into the vmware using the EXPANSIONDRIVE.
+And then when it was loaded (instead of splitting partitions earlier which I could have done)---i would just go in, delete the partitions into a raw format, and install over them.
+and yes i had to perform BypassTPM/BypassSecureBootCheck/BypassRAMCheck and others by using LABCONFIG and even AllowUpgradesWithUpsupportedTPMorCPU in MOSETUP. and even the BypassStorageCheck/BypassCpuCheck too. Maybe. I had to use them~! You might have to use those and to do that
+YOU HAVE TO GO INTO REGEDIT and by pressing SHIFT+F10
+AND YOU have to DO THAT BEFORE YOU EVEN START THE INSTALLATION PROCESS
 ***************************************************************************
 
 
