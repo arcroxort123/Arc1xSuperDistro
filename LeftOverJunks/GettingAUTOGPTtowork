@@ -57,6 +57,7 @@ And then when it was loaded (instead of splitting partitions earlier which I cou
 and yes i had to perform BypassTPM/BypassSecureBootCheck/BypassRAMCheck and others by using LABCONFIG and even AllowUpgradesWithUpsupportedTPMorCPU in MOSETUP. and even the BypassStorageCheck/BypassCpuCheck too. Maybe. I had to use them~! You might have to use those and to do that
 YOU HAVE TO GO INTO REGEDIT and by pressing SHIFT+F10
 AND YOU have to DO THAT BEFORE YOU EVEN START THE INSTALLATION PROCESS
+And then you have to REBOOT CORRECTLY the RIGHT DRIVE
 ***************************************************************************
 
 
