@@ -1,0 +1,150 @@
+HOW TO RUN THE THING ON THIS SySTEm (and why I pretty much HATE COMPUTERS):
+
+Start the SYSTEM ARC1X by loading into it and using the password OF COURSE.
+START UP DOCKER DESKTOP, make SURE THE ENGINE IS RUNNING. IT WON'T RUN IF THE SUBSYSTEM IS PREFERENTIAL FOR IT.
+ THEREFORE: MAKE SURE THE DEFAULT SUBSYSTEM IS ENABLED (PREFERABLY TO MY OWN     ---Ubuntu-24.04-V2DNX )
+authors note: it stands for (the whichever version DNX because i am using it to REWRITE ALGORITHMIC DNA...thats a joke but if it actually does then we have something to do, wowee) its a play on dna being cryptographic-digital-DNA which I am calling DNX (which is a form of RDNA graphical processing made popular by the AMD company, because I couldn't wait for their new version and had to blow ahead of them so to speak, but its complicated, I am trying to keep things "figuratively" on track")--dont take it personal, life is hard.
+
+YOU CAN CHECK BY TYPING INTO "POWERSHELL" or "VISUAL CODE"  --     
+type:
+
+wsl -L -V --all
+
+
+
+A BIG SIDE NOTE HERE
+***************************************************************************
+it will say the default whatever shows up. IF NOTHING SHOWS UP, you have to reinstall a WSL-DISTRO and just use the internet. IF YOU CANT USE THE INTERNET, check to make sure you have the correct NETWORK DRIVERS.
+IF YOU NEED TO, you will have to CONNECT A USB/PHONE or something to use internet and or get the network driver on the drive, (OR USE ANOTHER OPERATING SYSTEM/HARDDISK on your computer boot to do it that way)---yes, its that stupid folks, blame the BillGates I guess.
+If you have trouble getting the right driver, USE A DRIVER-UPDATER PROGRAM LIKE "DRIVER BOOSTER" this can make or break your hard drive's operating system a little bit, so be careful how you go about this, you have alot of CRAP TO GO THROUGH just in getting the right drivers, this is incase everything is missing. It will fill in most of the "missing drivers".
+If it is more complicated than that, LOOK UP WHAT TO DO ON THE INTERNET. You will have to go into DEVICE manager and flip some things ON/OFF or enable/disable other things. IT MAY EVEN BE A REGISTRY ISSUE TOO.
+THE PROGRAMS FOR THAT ARE 
+
+services.msc
+regedit
+
+and you will likely have to look up what you need to get done, but you can type in programs (for the intensive system stuff by doing a number of things to get there)
+For instance  
+1) THE WINDOWS KEY + "R"
+2) CTRL+ESC (my favorite personally), and then trying to open "command prompt" or "the run window" by typing in "RUN" to a search or "CMD" or "COMMANDPROMPT" etc.
+3) CTRL+ALT+DELETE and doing more stuff and trying to access the "RUN WINDOW" from there
+4)THE TASK BAR (be sure to pin everything where you want
+5) THE DESKTOP GUI itself (explorer.exe)
+6)ALT + TAB (to switch windows)---make sure you can even bring these to the correct monitor (depending on what is 'really going wrong' with your system) ---(neet "Sublime" Music Artist Reference)
+
+in the worst of cases, you will need to adjust your BIOS/CHIPSET profiles/settings before you even LOAD the Hard-Drive. That is all BONVOYAGE to me, good luck if you have to do that.
+(USB/PERIPHERAL ISSUES/CLOCKING ISSUES) may also occur
+
+AND BECAUSE WINDOWS IS JUST SO BUGGY, you might have to REINSTALL IT....and be warned---if you have to reinstall it, that could be more complicated than you are probably prepared for, becuase it takes me a FULL 2-3 hours to set up the SYSTEM TO BE USED, if not LONGER.
+AND IF YOU ARE REINSTALLING WINDOWS on a EXPANSION DRIVE (well you might need some real big help, becuase that is how I am using this SYSTEM AS IT STANDS NOW)----so if it goes wrong and the whole setup doesnt work, I guess "Your on your Own".
+***************************************************************************
+
+
+IF YOU NEED TO SET THE WSL DISTRO FOR YOUR WINDOWS SUBSYSTEM TO A DIFFERENT ONE:
+---
+power shell and or visual code is somewhere on the task bar as WITH ALL THE THINGS THAT SHOULD BE
+then if it ISNT the correct default.
+type:
+
+wsl --set-default Ubuntu-24.04-V2DNX
+
+NOW THAT WSL IS SET WE CAN MOVE ON:
+
+
+STEP 2!!!!!!
+OPEN DOCKER-DESKTOP (this also gets stupidly complicated)
+IF THE ENGINE DOESNT START, you might have to DELETE THE PARTITIONS THAT DOCKER-DESKTOP USES!!! (I KNOW I HAD TO!)
+The partitions are :    
+DOCKER-DESKTOP  
+DOCKER-DESKTOP-DATA
+
+UNFORTUNATELY!! THESE CONTAIN THE PROGRAMS ON THEM TOO!
+IF YOU ARE DELETING THESE!! YOU WILL LOSE PROGRESS. YOU WILL HAVE TO GO INTO THEM, AND PICK OUR ALL THE FILES YOU WORKED ON AND WANT TO SAVE. THAT INCLUDES YOUR PROJECT FILES. GOOD LUCK FINDING THEM IF THEY ARE THERE OR NOT.
+AND THEN...UNFORTUNATELY YOU HAVE TO REINSTALL THE PARTITIONS. WHICH DOCKER DOES AUTOMATICALLY ONCE THEY ARE DELETED.
+THEN IT SHOULD LOAD UP AND WORK WITH THOSE FRESH PARTITION INSTALLS.
+
+IF YOU DID DELETE THEM YOU WILL HAVE TO REBUILD THE CONTAINERS!!---(FOR THIS REASON YOU SHOULD HAVE BACKED UP YOUR BUILT CONTAINERS IN THE FIRST PLACE!!)---(i dont have this implemented right now, I SHOULD BACK THEM UP I GUESS!)
+
+So now we open the program DOCKER-DESKTOP which is also pinned on the task bar and hope it works.
+
+---
+
+
+STEP 3:
+GO TO VISUAL CODE, and OPEN THE FOLDER
+IMPORTANT:
+"IF YOU DONT HAVE A TERMINAL OPEN IN VISUALSTUDIO you will have to PRESS      CTRL + SHIFT + ~  " or you will have to GO TO THE MENU, CLICK VIEW, and click NEW TERMINAL WINDOW
+Once the TERMINAL WINDOW IS UP, it SHOULD LET YOU CONNECT TO ANY POWERSHELL/COMMANDPROMPT/WSL that you have.
+ALSO IN THE LEFTHAND CORNER IT WILL TELL YOU IF IT IS CONNECTED OR NOT, YOU CAN CLICK THAT TOO!
+IT WILL SAY CONNECT TO WSL or CONNECT TO DISTRO
+try to get it to pick the one you need. 
+YES ITS THAT STUPID FOLKS!
+
+This is the File Project folder I decided to use:
+C:\Users\Arc1X\AUTOGPT4\AutoGPT_Wizard\AutoGPT
+
+TO REINSTALL THE FOLDER:
+There are OTHERS, if you need to reinstall it, check out the WIZARD.SH file, and try to run that. IF THAT DOESNT RUN you will have to OPEN IT IN NOTEPAD, select all its contents with CTRL+A
+COPY THOSE CONTENTS WITH CTRL+C
+THEN PASTE THEM INTO A TERMINAL WITH CTRL+V
+THEN PRESS ENTER
+THIS TAKES SEVERAL MINUTES AND IT WILL ALSO ASK FOR THE API TOKEN (put that in because GPT and OPENAI want you to pretty much be their SLAVES--never forget that, THEY SUCK ASS but this is how it works)
+YES IT WAS THAT STUPID FOLKS!
+
+
+do this by selecting it in VISUAL STUDIO "open folder"
+or by typing:
+
+cd C:\Users\Arc1X\AUTOGPT4\AutoGPT_Wizard\AutoGPT
+
+"if you are running from a DISTRO you might have to type it differently"
+second way to do it:
+
+cd mnt/c/Users/Arc1X/AUTOGPT4/AutoGPT_Wizard/AutoGPT
+
+NOTICE HOW THE BACKSLASHES ARE FORWARD SLASHES NOW, that is BECAUSE OF HOW THE COMMANDS WORK BETWEEN SYSTEMS. (POWERSHELL/VISUAL STUDIO IS WINDOWS//WSL-DISTROS IS ACTUALLY LINUX MOST OF THE TIME)----YES ITS THAT STUPID FOLKS.
+
+also:
+if you are using WSL-DISTROS at all, you may need to log into a USER on that system window shell by typing
+type:
+
+SU arc1x
+
+which will log into the user i made, or any other user you will just have to look up how to do that. GUESS WHAT, its CONVULUTED PROCCESS. (and I also think there might be a user limit, so you can only pick a few or you will have to REMAKE AN ENTIRE WSL DISTRO YOURSELF AS WELL)---that INCLUDES install whatever else you need to on it
+TO UPGRADE THE WSL (which you shouldnt always had to do)
+
+apt-get update
+
+there are other things you can have to do
+like install PYTHON and GIT and DOCKER and Docker COMPOSE and PIP
+and anything else, good luck with all that, you will have to do that if you dont have them for any reason. AND GUESS WHAT! THERE ARE MANY VERSION THAT WILL CONFLICT IF THEY ARENT THE RIGHT ONES!!...for instance  for some REASON...... docker-compose and DOCKER COMPOSE are TWO DIFFERENT THINGS THAT YOU NEED TO MAKE SURE YOU DONT ACCIDENTALLY MIX UP. and only try to install DOCKER COMPOSE because it has the right version for AUTOGPT. (no one told me this and i found out the hard way AKA on my own)
+
+
+
+
+STEP 4:
+ANYWAYS now that you have a "SHELL open" or not. LOAD UP THE DOCKER BUILD FILE YOU SHOULD HAVE ALREADY BUILT "or use the BUILTIN one I HAVE" in that folder by typing
+MAKE SURE YOU ARE IN THE RIGHT FOLDER PER THE SHELL/WINDOW YOU ARE USING THIS COMMAND FROM
+Type:
+
+docker run -it --env-file=./.env -v $PWD/auto_gpt_workspace:/app/auto_gpt_workspace autogpt
+
+
+NOTE: if the DOCKER CONTAINER IS DIFFERENT, you WILL HAVE TO TYPE A DIFFERENT CONTAINER NAME FOR IT AT THE END AS YOU CAN SEE ABOVE, the autogpt might be something like autogpt-autogpt2 or something else, you will just have to CHECK THE DOCKER DESKTOP CONTAINER ASSIGNED FOR IT BY THE BUILD IT IS.
+Hopefully it works for you and you can stick to what works. THIS IS REALLY THAT STUPID FOLKS.
+
+STEP 5:
+it will load up in the window you press enter in, and you will be able to start USING THE AUTOGPT.
+
+the WINDOW will then convert itself to rename to DOCKER...showing it is used.
+YOU CAN ALSO PROBABLY DO MORE COMPLICATED STUFF LIKE...LOAD DOCKER INTO VISUAL STUDIO ITSELF THROUGH EXTENSIONS
+you will have to install/log into your docker through visual studio, put up the build, and click the build in the DOCKER-EXTENSION-WINDOW inside VISUAL STUDIO
+and THEN you can use intergrated-shells.
+WHICH SHOULD BE MORE COMPLICATED, because that's all it really is.
+
+
+STEP 6: USING AUTO GPT....
+you can use the workspace that is in visual studio
+and you can add in more text files into the autogpt-WORKSPACE folder that is in the workspace.
+
+what a tiring POS this was.
