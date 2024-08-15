@@ -32,3 +32,17 @@ Here is the work flow (a more broken down version of the Prompt)
 
 
 Each Agent will fufill the tasks necessary for its parse to integrate this prompt.
+
+Adjust each of the builds as 
+
+---1
+Legacy --> Encryptions
+Virtual --> Resources
+---2
+Text-Build --> Base
+AdvancedBuild --> Bridge
+---3
+Extras --> Meta (Cycle)
+References --> Remote (Target/Node)
+---4
+Concepts/Leftovers/Scrapped-Ideas/Image-Ideas/TemplateLayout Etc --> Drone
