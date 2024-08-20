@@ -42,4 +42,4 @@ While we had a DYNAMIC-DATA-PROCESSOR/REACTOR
 Now we add the Thorium-Grill for chemical/inputdata.
 And we had the Omega-Chain for power/productdata.
 
-It does better in data-collection/garbage-collection because it generates all of that. (And with its superconduit top level adpater it can incorporate a dataflow as it already likely has)
+It does better in data-collection/garbage-collection because it generates all of that. (And with its superconduit top level adpater it can incorporate a inbound/outbound dataflow as it already likely has)
