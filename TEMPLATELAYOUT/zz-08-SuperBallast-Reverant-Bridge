@@ -19,19 +19,19 @@ The chemical plant splits to allow thorium mixtures and coolants and its dumps w
 This is one component, there may be another spread of the grill to allow for more "interslotting between other grills in their extension/framework (this requires elongation of its pipelines to incorporate spacing for interweaving of course, or they can overlay, it doesn't really matter what works is what matters) Just getting modular components to "hypercube" together.
 This eventually forms a BRIDGEWORK to the dataprocessor, and that is more or less an added capability now to accept its own trafficing for data-management without a mass-fulton-circuit-conduit-adapter. This is not a "toplevel adapter" but can also be a side adapter, or we can just use it as a built-in-bridge.
 Hopefully this upgrades the dynamic-data-reactor/processor to accept thorium transmissions. (it is a little side heavy though now with the built in chemical plant being enlarged to concompass this) No biggue, just a small nitpick of design.
-SO THIS SIDE LOOKS LIKE: ExtraBridge/ExtraGrill/ExtaDataMining(Scraper Cycle)
+*SO THIS SIDE LOOKS LIKE: ExtraBridge/ExtraGrill/ExtaDataMining(Scraper Cycle)
 
 RIGHTSIDE B Extension
 So we go to the other side, and this is where it started to piece together and rebalance. (We can also do any side in any order but let me explain it)
 We split the power outputs/builtin turbines to allow for the bridgework to include spacing for extra components.
 These components are the Turbines/Augmented-Data-Moshing-Device/Auxilliary
-SO THIS SIDE LOOKS LIKE: ExtraTurbine/ExtraAugmented-Datamining(ScraperCycle)/Extra-Aux(Generator)
+*SO THIS SIDE LOOKS LIKE: ExtraTurbine/ExtraAugmented-Datamining(ScraperCycle)/Extra-Aux(Generator)
 
 Anyways it starts to look balanced with added/improved components having been forked and fitted on either side of its casing, and can match the idea of a standalone BALLAST.
 Now it 1) autoprocesses data on its network collection and also 2) converts power per its own cyclic-entry.
 3) The topside adapters are still used as beacons etc if needed. Which is a plus in remote communications/dropzoning either for infosec or crypto-chains (and probably can help to commit/interact with remote buckets and their cache/loads).---infact this is why it is important because of all the dumping taking place.
 Any wow-signal can be reduced to a potential mis-read/mis-fire and proven thereof in particule interactions/flukes/quarks etc. Very good in deweaponizing potential threats/signals and provided extra insulation against unexpected events.
-SO THIS TOPSIDE LOOKS LIKE: "A little more conduit/hard-wiring integrating each SIDE A AND B and deck-platform/lane)
+*SO THIS TOPSIDE LOOKS LIKE: "A little more conduit/hard-wiring integrating each SIDE A AND B and deck-platform/lane)
 
 
 Anyways SIDE A and SIDE B do their thing, enhance the original reactors with their newly enhanced-Chemplant/enhanced-Turbine (and topside enhanced-garbage collector)
