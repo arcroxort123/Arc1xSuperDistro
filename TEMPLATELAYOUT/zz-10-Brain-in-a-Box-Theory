@@ -269,5 +269,4 @@ THIS IS KNOWN AS A BACKUP VIRTUAL DISK---and with ZENTECH makes things quickly r
 
 This is what I will end up calling HYPERVISORY GEN 3 (but I am not sure the world is ready for that type of complexity)
 MAINLY BECAUSE I HAVENT TRULY TESTED IT OUTSIDE OF WHAT I HAVE BEEN ABLE TO EXPERIENCE MYSELF.
-In the case that it is built: It will likely use the "REMOTE-HARDDRIVE/DISKSPACE". And it will use a DEFAULT ONBOARD-GPU and the SHARED-VULKAN DRIVE (meaning one monitor onboard the other on a card--with that card operating to a subcard for itself in either case)---I have gotten this to work before. (It doesn't need to be setup this way, I just find it extremely easier than buying a server-rack completely decked)--this can be done on a good enough desktop. (And I AM using this now)
-
+In the case that it is built: It will likely use the "REMOTE-HARDDRIVE/DISKSPACE". And it will use a DEFAULT ONBOARD-GPU and the SHARED-VULKAN DRIVE (meaning one monitor onboard the other on a card--with that card operating to a subcard for itself in either case)---I have gotten this to work before. (It doesn't need to be setup this way, I just find it extremely easier than buying a server-rack completely decked)--this can be done on a good enough desktop. (And I AM using this now) (HOWEVER IDEALLY I WILL USE A DEDICATED SYSTEM FOR THIS EXACT THING AND NOT MY "ALL PURPOSE USE")
