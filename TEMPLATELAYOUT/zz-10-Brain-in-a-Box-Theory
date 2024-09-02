@@ -603,3 +603,16 @@ These can be used as deployable timebombs/fragments and shrapnelize over vamp/ra
 
 16--there are also mana/meta types that are strictly esper/summon based for instance half of the monsters can be considered exclusive to summons and perform functions/duties in expressing elements/components which are utility or in some way indicative of authorized/elevated terraformy including "feats of miracles etc" with damage/healing/buffs/status effects and other manuevers with object/data handling/management. I don't feel like getting into every single one just imagine anything has an ulterior purpose as a summon.
 It is really up to what you think a summon/esper/tulpa/echelon type thing may be, but they generally can follow a table/index/list/group setting admist themselves as they are categorized under mana/meta summons or entities)
+
+Romhack-VISUARY
+I don't really want to get into this because it permutes into something else and not alot but imo its alot.
+Requires 1A built in gpu, a 2flagship, a 3backup-expansion or backup-gpu.
+--
+This will allocate how the priority of the gpu is used, to its top/sub. (MainTty/SubTty)
+That based on preference to the Gpu 1,2,3 it will allocate based off DEPTH/QUALITY/SIZE (where depth is the entry level in its allocation)---and then priority which is as to what gpu is TOP/SUB and the preference of which is to the USER-Experience. This supplements as a rom hack.
+it starts out small given 3 configurations, develops into 3 + 9, so 12.
+This turns 12 into some mixture of also that, in priority. of its new configurations. This allows like 36 different sockets/seeds/brackets/positions for the way its set up, this can be "skimmed over" or auto-placed.
+This then is set to user-level as its priority(depth/quality/sizing) has all been configured, it is given a top/sub label. this gives it 72 configurations.
+---
+This gets crazier with driver types. In which we will use OEM/OS-model(directml)/ALTERED-models(zluda)/whether or not its virtualized for a different operating system(rocm)---this is all amd. Yes it pretends to be nvdia. This gives 144 configurations
+If you want to use ---cuda/nouveau that will make it 288 total configurations. This is why I don't want to get into this.
