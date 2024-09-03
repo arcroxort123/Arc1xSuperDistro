@@ -638,3 +638,4 @@ This may later be adjusted to a MASS-DRIVER SETTING in which DRIVER CONFIGS may 
 It may then also require proper QUANTUM/BROKERING-CONFIGS to be adjusted to preferred settings. (XPREF of user/mech)
 ---
 ---once activatable it may NEST-VIRTUALIZATION to any romhack/entity through which it may support including VIRTUAL-kernals/Virtual-Entities.
+In some cases it may require Memory-Swap/CONTEXT-restore which is or can be devoted to "installation DLL/files for which are image warriored into compile"
