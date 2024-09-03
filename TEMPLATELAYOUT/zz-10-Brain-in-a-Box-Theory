@@ -639,3 +639,4 @@ It may then also require proper QUANTUM/BROKERING-CONFIGS to be adjusted to pref
 ---
 ---once activatable it may NEST-VIRTUALIZATION to any romhack/entity through which it may support including VIRTUAL-kernals/Virtual-Entities.
 In some cases it may require Memory-Swap/CONTEXT-restore which is or can be devoted to "installation DLL/files for which are image warriored into compile"
+In some cases the grub may set up itself to be used for virtualization in this way, it has found a way to enable  virtualization without a setup because it relied/dependability of image-warriors to assist in compile.
