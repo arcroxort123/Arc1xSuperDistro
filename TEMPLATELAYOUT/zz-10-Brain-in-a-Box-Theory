@@ -1446,4 +1446,6 @@ Nulogic/Expiry/Physix/Ex-specs seem okay (mapping/sequencing)
 ---
 10+10=20
 10->20=Eval
+20A+20B=(40approx)
+
 (Everything mostly seems okay--if anything goes wrong it usually can be noted)
