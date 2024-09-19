@@ -1544,5 +1544,6 @@ THIS CONNECTION SERVICE may be used to afford broker-service/contracts.
 THIS CONNECTION SERVICE may be used to afford simulation-interaction.
 THIS CONNECTION SERVICE may be used to afford project-requests and fairground/standard performances etc.
 THIS CONNECTION SERVICE may be used to afford SECURITY/SAFETY data-management under monitoring/allowances.
+This connection MAY BE MONITORED UNDER BLACKBOX-SCRUTINY and SECURITY-INTERVENTION. (in case of exploit/abuse)
 
 ---This may or may not be used for any reason. And is considered completely optional (to achieve an AI-assisted PROSPECT/DATA-COMMISSION)
