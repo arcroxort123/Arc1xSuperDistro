@@ -1681,3 +1681,4 @@ A FULL DRIVER PROFILE is therefore applied to prevent alternative-drivers in use
 
 --
 So it is imperative to prevent Ring-layer/Memory-log/Browser-Extensions/Meta-Image-Browser-Cache/Driver-Indexes and RemoteSSH-chains(if used) from these Crypto/Quantum-Attacks.
+The above process is not exactly core-process-isolation-security but is compared to that, it seperates virtual-machine cores.
