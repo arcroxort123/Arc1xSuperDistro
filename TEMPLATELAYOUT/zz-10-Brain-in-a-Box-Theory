@@ -1694,4 +1694,4 @@ Using Nested Virtualized ZBOOT integrations of a Virtual-machine---allows it to 
 ---In worse conditions if it is a corrupt virtual machine designed to hijack boots, it may just hijack the boots for its own purposes by corrupting bootloads/drivers/bios-settings/memory-chains/cache.
 This will force HARD-TACT/DIAGNOSTIC repair/remediation or force a backup (if the system remains uncorrupted enough to perform the task when requested)
 --
-AT some POINT, zboots are tokenized or particlized for manipulated-particle-seqeunces and if this is altered in its data-stream/hyper-threading it will crash.
+AT some POINT, zboots are tokenized or particlized for manipulated-particle-seqeunces and if this is altered in its data-stream/hyper-threading it will crash as a saving throw to its cache being imprinted.
