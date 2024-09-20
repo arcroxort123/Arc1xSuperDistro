@@ -1600,4 +1600,4 @@ This also can be traced/tracked via Galvanix beacon performances (Galvanix Migra
 ---
 This also suggests a programmed vocoder such as necrophonix or whatever it is called. (EMF-Recorder and auto-processor)
 Galvanix Crypto-Anamoly Capture and LANE CHECK comparison (checks current capture to other known captures per Galvanix versionary).
-This will home in and centralize galvanix core-practices into a captured header state (using model-comparison only)
+This will home in and centralize galvanix core-practices into a captured header state (using model-comparison only). There is an accuracy fall off with QPOP (the more qpop the less accurate)
