@@ -1681,4 +1681,5 @@ A FULL DRIVER PROFILE is therefore applied to prevent alternative-drivers in use
 
 --
 So it is imperative to prevent Ring-layer/Memory-log/Browser-Extensions/Meta-Image-Browser-Cache/Driver-Indexes and RemoteSSH-chains(if used) from these Crypto/Quantum-Attacks.
-The above process is not exactly core-process-isolation-security but is compared to that, it seperates virtual-machine cores.
+The above process is not exactly core-process-isolation-security but is compared to that, it seperates virtual-machine cores, somewhat... It basically seperates the virtual machine to allow nesting and seperates its nesting to superimposed boots of the original virtualization. (This is also a mix of digitalization in which it has prepped-profiles of its barebones setups/system hardware profiles)
+Introducing CORE-PROCESS-ISOLATION-SECURITY will help against zboot-attacks, but does not garuntee safety because a zboot attack can be wide-ranging of the virtual machine too.
