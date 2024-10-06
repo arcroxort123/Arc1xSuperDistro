@@ -59,3 +59,4 @@ in which the Virtual-BALLAST handles the headers performances (for die---2---vir
 this helps to streamline the CODE/Exchange in an organized fashion admist its connections.
 SO Connection-MAIN can be set for Connection-VIRTUALMAIN
 in which it is "parsed/vectored/segmeneted/sectored" correctly for each of its source-points.
+In which their version-checks are assembled/compiled correctly in DEPLOY/Migration over psuedo-frames.
