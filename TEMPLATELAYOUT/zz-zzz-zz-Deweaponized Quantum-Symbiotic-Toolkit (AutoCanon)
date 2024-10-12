@@ -237,3 +237,8 @@ Describes process of
 1 CRYPTID-AQUIREMENT (Non faction (rival) Gnaelthryn)
 2 CRYPTID-GENERATION (Wild Gnaelthryn)
 3 CRYPTID-GENERATION (Faction Gnaelthryn)
+
+Beneficial Modules: (may be used as a default in official-faction-gnaelthrym)
+CLOAK/GHOST/FAE/SPRITE DETECTION
+Secure Defense/Stratgem: Spell Detection/Shock Detection
+Weaponized/Counter-Ops: Module Detection/Content-Scanner
