@@ -235,8 +235,8 @@ AutoCollect/AutoDispatch of DataMosh/DataSeat (full realm management)
 
 Describes process of 
 1 CRYPTID-AQUIREMENT (Non faction (rival) Gnaelthryn)
-2 CRYPTID-GENERATION (Nuvolution/Staging advancement/degen of Wild Gnaelthryn or Chrysalis(biolabs))
-3 CRYPTID-GENERATION (Faction Gnaelthryn)
+2 CRYPTID-preGENERATION (Nuvolution/Staging advancement/degen of Wild Gnaelthryn or Chrysalis(biolabs))
+3 CRYPTID-postGENERATION (Faction Gnaelthryn)
 
 Beneficial Modules: (may be used as a default in official-faction-gnaelthrym)
 CLOAK/GHOST/FAE/SPRITE DETECTION (and + astral/quantum  plotter/clairovoyance)
