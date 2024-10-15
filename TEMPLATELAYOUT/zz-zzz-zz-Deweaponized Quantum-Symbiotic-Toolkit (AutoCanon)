@@ -487,7 +487,7 @@ For "Cartoon Builds":(abnormal builds)
 SpecialCase Headless---> (subtract headcosts per rigging)  42--84--126 (no token)/(with token) 43--85--127
 SpecialCase Rigging (Head Rigging is flat rate because of HeadRig-Usage remaining flat either adjust cost per headrigging at +1 +2 +3 per rigging cost involved) 42(+1/+2/+3) // 84(+1/+2/+3) // 126(+1/+2/+3) out of any permute.
 
-Further DECOR/XPREF/CUSTOM/MACS may be applied after model-rigging.
+Further Styles/DRESSING/DECOR/XPREF/CUSTOM/MACS may be applied after model-rigging.
 **********************************
 **********************************
 
