@@ -765,3 +765,4 @@ MORTIMER-GHOSTDECOY (special case entity)
 A decoy that exhibits special case meta.
 This can include agressive/hostile trap/trigger/reaction/wire protocols
 It may function as a container/script/build/scratch-up. (it may exist as a raw-format/raw-data)/partition/image. It particularly can be exposed as a symlink/temporary-activated-source (if triggered or sustained)
+It is similar to a random environmental-pressure-plate/trap-block/deprecated-chunk/relic-object that might react under certain conditions especially if those conditions are improvised (such as a storm effect)
