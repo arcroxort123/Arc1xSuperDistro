@@ -764,4 +764,4 @@ Being that zenox is an ultimated entity, however the alternative has been enstat
 MORTIMER-GHOSTDECOY (special case entity)
 A decoy that exhibits special case meta.
 This can include agressive/hostile trap/trigger/reaction/wire protocols
-It may function as a container/script/build/scratch-up. (it may exist as a raw-format/raw-data)
+It may function as a container/script/build/scratch-up. (it may exist as a raw-format/raw-data)/partition/image. It particularly can be exposed as a symlink/temporary-activated-source (if triggered or sustained)
