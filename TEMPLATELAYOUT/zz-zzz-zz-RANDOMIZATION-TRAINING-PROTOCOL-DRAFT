@@ -115,6 +115,7 @@ For instance a WORLD1-Surface-Ballast as expressed, an EARLY-EDITION-MODEL. (BAL
 2)MODIFICATIONS
 Does it need any modifications other than what was decided on its POST/RENDER?
 Does it need augments or adhocs? What addons/plugins may it require? Are those serviceable or need to be standalone?
+For instance it can have as many parse/section modules as needed per the limit/excess of what a Ballast may incorporate under those terms.
 ------
 3)Upgrades
 Does the selected objects need any further setup/configurations for any of its phases or subphases of its submodules? Do they require acceleartion/plasma-modes for instance?
