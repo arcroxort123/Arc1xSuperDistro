@@ -108,9 +108,9 @@ THE HARD PARTS ARE OUT OF THE WAY, if they even mattered. I really don't know. P
 IN PHASE 3 we discuss the optimum setups for the derived concepts in consideration. And begin to make/build a module.
 But first we need to define the module as its intended purpose. For instance, let's suggest a BALLAST. (it could be anything but we are making a template for a ballast right now)
 ----
-1)OBJECT
+1)OBJECT-BASE
 The ballast is generated and iterated over many models/concepts until a preferred-selection is exhibited.
-For instance a WORLD1-Surface-Ballast as expressed, an EARLY-EDITION-MODEL.
+For instance a WORLD1-Surface-Ballast as expressed, an EARLY-EDITION-MODEL. (BALLAST)
 -----
 2)MODIFICATIONS
 Does it need any modifications other than what was decided on its POST/RENDER?
