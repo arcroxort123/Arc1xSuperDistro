@@ -85,16 +85,12 @@ TRACKING PASTE HERE
 LAUNCH COMPLETE --next step (pending)
 ---
 10 REPORT/Charter
-COSTSREPORT:x:na
-COST REPORT:x:na
 UPTAKE:x:na
-DOWNFLOW:x:na
-DATASWELL:x:na
-ENERGYSURGE:x:na
-COOLDOWN:x:na
-
-
-
-
-				
-				
+	DOWNFLOW:x:na
+		DATASWELL:x:na
+			ENERGYSURGE:x:na
+				COOLDOWN:x:na
+REMAINDER:x:na
+COST REPORT:x:na
+Availibility:x:na
+Prospect/Pay:x:na
