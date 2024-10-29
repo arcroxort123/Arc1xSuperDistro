@@ -280,3 +280,4 @@ make a chat program with "model" in "simulation/case" and test with the terminal
 Use 16x prompt embedding and refine with "code editor". Use maximum tokens to create a full stack project.
 Use "peak language" and pipeline everything into an automated compile/compute.
 Consider or not the cost/size limitations in producing the bullion/bloom when activating the product.
+Treat this as the standalone-core-build.
