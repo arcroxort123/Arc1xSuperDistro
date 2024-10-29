@@ -269,3 +269,4 @@ it produces a bullionized token of itself for sacrement
 this token represents a container (finally)
 we can interact with the bullion to stop it
 we can then delete the bullion once its stopped (if we want)
+This works with the builder module code to produce fast acting builds and modules
