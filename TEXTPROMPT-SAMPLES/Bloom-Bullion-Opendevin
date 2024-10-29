@@ -229,3 +229,58 @@ else:
 This code uses the openvino library to create and test a model, use various methods provided by the library to treat this as the standalone-core-build and allow it to host its own memory-page (secure train if necessary), and print the output of the model for the given input.
 
 I hope these examples help you understand how to use the openvino library to create and test a model, use 16x prompt embedding and refine with a code editor, consider or not the cost/size limitations in producing the bullion/bloom when activating the product, and treat this as the standalone-core-build and allow it to host its own memory-page (secure train if necessary). Let me know if you have any questions!
+
+th your task. Based on the examples provided, it seems that you want to use the openvino library to create and test a model, use 16x prompt embedding and refine with a code editor, consider or not the cost/size limitations in producing the bullion/bloom when activating the product, and treat this as the standalone-core-build and allow it to host its own memory-page (secure train if necessary).
+
+To start, you can use the openvino library to create a new model by calling the Model() function and passing in the name of the model you want to create. For example:
+
+import openvino
+
+# Create a new model using the openvino library
+model = openvino.Model("simulation/case")
+
+
+Next, you can use 16x prompt embedding and refine with a code editor by setting the input shape of the model to (1, 16, 16) and then refining it with the RefineMethod.CODE_EDITOR method. Here's an example:
+
+import openvino
+
+# Use 16x prompt embedding and refine with a code editor
+model.set_input_shape((1, 16, 16))
+model.refine(openvino.RefineMethod.CODE_EDITOR)
+
+
+After that, you can consider or not the cost/size limitations in producing the bullion/bloom when activating the product by calling the get_cost() and get_size() methods on the model, and then printing a message depending on the result. Here's an example:
+
+import openvino
+
+# Set the model to use
+model = openvino.Model("simulation/case")
+
+# Test the model with the terminal and browser
+model.test()
+
+# Consider or not the cost/size limitations in producing the bullion/bloom when activating the product
+if model.get_cost() > 100:
+    print("The cost of producing the bullion/bloom is too high.")
+else:
+    print("The bullion/bloom can be produced at a cost of less than 100.")
+
+
+Finally, you can treat this as the standalone-core-build and allow it to host its own memory-page (secure train if necessary) by calling the get_size() method on the model and then printing a message depending on the result. Here's an example:
+
+import openvino
+
+# Set the model to use
+model = openvino.Model("simulation/case")
+
+# Test the model with the terminal and browser
+model.test()
+
+# Treat this as the standalone-core-build and allow it to host its own memory-page (secure train if necessary)
+if model.get_size() > 100:
+    print("The size of the bullion/bloom is too large.")
+else:
+    print("The bullion/bloom can be hosted in a standalone core with its own memory page (secure train if necessary).")
+
+
+I hope these examples help you understand how to use the openvino library to create and test a model, use 16x prompt embedding and refine with a code editor, consider or not the cost/size limitations in producing the bullion/bloom when activating the product, and treat this as the standalone-core-build and allow it to host its own memory-page (secure train if necessary). Let me know if you have any questions!
