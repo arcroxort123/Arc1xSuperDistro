@@ -283,3 +283,5 @@ Consider or not the cost/size limitations in producing the bullion/bloom when ac
 Treat this as the standalone-core-build and allow it to host its own memory-page. (Secure train if necessary)
 ----
 This allows it to set definitions/elements and also orient/calibrate the case involved.
+
+LASTLY becuase there is no other place for this thing....use a script logger to keep a track of everything---which will be an internal gateway that points to a port, for which an external "scriptlogger/databank can archive all the information of the autometrics. Which are already catalogued in the server and may be requested if under the certification of an API"---the AD-api can delegate which api is shared for what, and the api used can broker over the metrics (such as using a compatibile broker or ceritifed customs broker for diplomatics)---how fortunate!
