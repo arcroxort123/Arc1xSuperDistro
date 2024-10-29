@@ -281,3 +281,5 @@ Use 16x prompt embedding and refine with "code editor". Use maximum tokens to cr
 Use "peak language" and pipeline everything into an automated compile/compute.
 Consider or not the cost/size limitations in producing the bullion/bloom when activating the product.
 Treat this as the standalone-core-build and allow it to host its own memory-page. (Secure train if necessary)
+----
+This allows it to set definitions/elements and also orient/calibrate the case involved.
