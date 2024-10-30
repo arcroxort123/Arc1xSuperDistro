@@ -285,10 +285,12 @@ Treat this as the standalone-core-build and allow it to host its own memory-page
 This allows it to set definitions/elements and also orient/calibrate the case involved.
 
 LASTLY becuase there is no other place for this thing....use a script logger to keep a track of everything---which will be an internal gateway that points to a port, for which an external "scriptlogger/databank can archive all the information of the autometrics. Which are already catalogued in the server and may be requested if under the certification of an API"---the AD-api can delegate which api is shared for what, and the api used can broker over the metrics (such as using a compatibile broker or ceritifed customs broker for diplomatics)---how fortunate!
----
+--- (this last part is almost insane but i try my best to get through it)
+p1(prep-to)
 elaborate on those as a theoretical model and integrate between selections, as a working product for modular exchange
 Allow for a reconfigurable template within a network composition and allow augment for meta variables or residual data.
 this should allow also for memory paging to a client from the source targets which will be point or bypass over server policy or authorizations (blacklists or redirection to a proxy or direct compute)
+p2(post-to)
 virtualize a resolve under corrective weighting or quantization of the model, and sync or inject into code base using a prompted signature (transcode)
 recompile and refactor any additional data or transfer under the current frame/cycle/step/spoof, and recoordinate a proper range or matchbase as per the requesting/standby engine
 Set a queue and reserve for bucketing, allow transmission of module patch and workloads to be announced by broadcast or checksum/pllc in timing/clock of the surface address and echo their handshake
