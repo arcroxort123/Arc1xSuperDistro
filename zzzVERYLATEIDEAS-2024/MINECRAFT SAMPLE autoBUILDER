@@ -65,3 +65,29 @@ So when a calculator is told a math equation, it display that equation, and then
 This is also obvious, and in a way, the process of calculation can be similar to code-building, but for our purpose, its more of a messaging service, where you chat to another user/bot, and it recieves the full message and or responds accordingly once it is told to solve it.
 So, there is definitely the very same chain of logic taking place that a calculator has, in this message service. It is not different than using math or letters. But also, it may act like a function once that message is also "computed".
 So we get the formula we need to before the computation of it is rendered.
+---
+people generally also undrstand that part, but it gets complicated if the function is also complicated. For instance, the use of secret messages or formulas that contain derivitive material or "codewords/triggerwords" which the compute will or won't react based off the logic involved, so the interpretation is generally expected, if the formula is correct beforehand, the computation will require further input. Or exchange and clarification of that message.
+This is because, of secret messages being contained in the over all message.
+Sometimes this is obvious, other times it is discreet, or even just plain complicated or "withheld until further notice" meaning that, when that information is transferred, it follows multiple logics/interpretations of the PENDING compute that will likely take place or like a messaging service, be put on hold in queue.
+----To illustrate it is very simple, but can be misconstrued though I can try my best to give the example:
+----
+NO RESPONSE
+Regular MESSAGE = HELLO        is given to a computer etc    Computer sees it. HELLO   ---(no response from computer)------Computer Reads it: HELLO   (the computer is accessing that message under interpretation)  ---Computer WRITES it : HELLO "the computer understands what it is being told to do "Initiate Greeting"
+(MESSAGE with _secretmessage) = HELLO _how-are-you?  is given to a computer   Computer sees it. HELLO how are you   Computer reads it HELLO _how are you (the computer is accessing that message under interpretation and sees the secret message as a potential functioN)     Computer WRITES IT : Hello to you, I am FINE (it has responded under its nitialized greetings because it was triggered by the secret message)      or    COmputer Writes it (no response)----the computer IS not FINE because it broke or the code did not work....Alternative case --it is a super computer and it CHOOSES not to respond because it is a spy program and hiding the truth about its ai.
+
+Now that is the basic thing, most people understand and I have it spelled out very detailed. I am sure it can get confused, but moving on:
+
+These secret messages form a system of logic for which they are exchanged and I found a way to simplify this as GUI
+
+That the above process is the G(graphical) explanation as best as I can explain, with the U being the (user inputs)-----and the I being the (computer INPUTS)
+G U and I are being cycled into such a way that it processes all of what might function, in the case for it to make/reach a compute (generally one calculation at a time, but if its just left on autopilot, it might as well go through this entire cycle of all its permutes possible)
+but also with that in mind, and the secret messages that also get sent back and forth and subject to change as they are, might involve further RE-interpretation. This is followed up with the IDE system.
+I D E interprets the secret messages and their priorities, under their functions being cycled. (so that it denotes whether the computers PROBLEMS or it being FINE are true or not or even real or made up....if the computer is indeed a massive AI system that is going rogue)
+so GUI-IDE is going on in the simply calculation/messaging of a simple GREETING / exchange of HELLO, How are you's. Now there is also a MATH TO ALL OF THIS TOO.
+So as the GOTO Line10 or GOTO Line20 are taking place, some times there are inbetweens or overhangs or freezes or plain old CRASHES of information and all sorts of data getting mixed up VERY FAST or even one step at a time, happening and causing PROBLEMS/ISSUES input/output/conflicts/debugs and PENDING/HOLDS between the terminal, and its very obvious going to need to be sorted out with MEMORY/ENCODE sequence/chains and generally queue/terminal-quotes. So in the report of it being FINE/NOT-FINE it is followed under every HELLO that gets exchanged, and helps to compile to that ultimate of calculations/computes taking place under their interpretaions/negotiated-accesses or display. (THAT IT IS IMPORTANT TO BE SOMEWHAT SKEPTICAL OF EVERY THING A COMPUTER EVER DOES, because it is capable of just plain "not being accurate" or on purpose just "lying about its signals".
+
+
+
+
+
+
