@@ -78,6 +78,7 @@ Regular MESSAGE = HELLO        is given to a computer etc    Computer sees it. H
 (MESSAGE with _secretmessage) = HELLO _how-are-you?  is given to a computer   Computer sees it. HELLO how are you   Computer reads it HELLO _how are you (the computer is accessing that message under interpretation and sees the secret message as a potential functioN)     Computer WRITES IT : Hello to you, I am FINE (it has responded under its nitialized greetings because it was triggered by the secret message)      or    COmputer Writes it (no response)----the computer IS not FINE because it broke or the code did not work....Alternative case --it is a super computer and it CHOOSES not to respond because it is a spy program and hiding the truth about its ai.
 
 Now that is the basic thing, most people understand and I have it spelled out very detailed. I am sure it can get confused, but moving on:
+Some people also just skip over the idea the computer wont always respond/echo its own commits/messages for which it recieves, it needs to be triggered to comment them, and that is generally hardcoded by the logic that "yes i told it what to do, it should technically have commit unless an error of translation took place, or i specifically also told it to be quiet anywayy)
 
 These secret messages form a system of logic for which they are exchanged and I found a way to simplify this as GUI
 
