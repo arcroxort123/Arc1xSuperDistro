@@ -1,10 +1,24 @@
 10/30/2024
 I have reviewed my documentation up to date, and wanted to mention that I would revisist it in the premise of creating a minecraft-player-bot.
 This player-bot would host a variety of models in which to conduct and perform exercises in minecraft, such as building and crafting. Here is how I would outline its expected performance (but this remains to be tested): (by the way I have seen videos of ai minecraft and model usage comparisons, ideally this would work with my system)
+WITH OUR 16x16 prompt, this might make a very big difference in results/outcomes than before. Just assuming the process for using the 16x16 prompts are correct, then we will optimize the priorities for MINECRAFT-survival/gameplay.
 
 So to that effect the first process would apply as:
 Player-Spawn, Player Gather Resources/ Player MAP-space
-This gets even easier with PLAYER-WRITE-JOURNAL and it will use journal snippets. (This requires alot of journaling)
+This gets even easier with PLAYERbot-WRITE-JOURNAL and it will use journal snippets. (This requires alot of journaling) I want the playerbot to use journals to cut down on costs and queues and learning.
 
 With Conditions of any mapping of assessment being:
 Is Space Occupied? Is space Non-occupied? Is space blockaded? Is space potentially blocked or occupied or non occupied? Is space in range of occupation.
+This helps to make sure the player does not kill itself in a drop or suffocate by being buried or killed in a nonoccupied space such as a gravel/lava or something like water(delayed-non-occupied space)
+
+The mapping hopefully helps the playerbot discern what to do and what path to travel, and using a journal it can write functions for itself very quickly to call upon in assisting its scripts.
+And it can use hard-coded boit scripts such as fighting/gathering etc.
+I will scout for specific resources in range or in knowledge based of its needs/goals (it will seek out structures/caves or trade opportunities and utilize these prospects as expeditiously as possible and with as minimal cost and as much efficiency as possible)
+
+It will construct items and explore construction processes and use them to build structures. This is important as I want them to build a certain way.
+To use a path  they will chart or make a road. This helps to establish a pre-determined surface for which they will route themselves upon.
+For building structures they may remote-allocate off-side to their own path and decisively build within 16x16 prompt or grids capable top test/experiment to a build.
+This is where it gets even smarter:
+For them to develop a deck for a seperate instance in which to allocate and expedite further builds/constructs of items/strucutres.
+AND TO FLAGSHIP in which to create a station/hub framework in which they utilize whatever process is needed in which to obtain these goals (such a using a CRAFTING TABLE in a safe-space or otherwise, build items quickly based on their resources and local-environments)---hence a flagship can be built to help them quickly obtain a fast-vocational workzone in their remote allocation.
+The will designate certain TASKS/jobs to their expected stations as well, and they will manuever and traffic accordingly in using these as modules. They will eventually develop a full homestead and or trade-camp in which all of these processes can be quickly performed and contracted when in schedule/routine of their immediate/priority needs, and they will have a DECENT-improvement to their quality of life/survivability.
