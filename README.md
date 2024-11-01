@@ -67,3 +67,7 @@ Seemingly Finished as of 5/31/2024
 
 9/12/2024
 Updated for TemplateLayouts.
+
+11/1/2024
+LEVIATHAN WORLD BUILD COMPLETE
+---TODO LIST: Include a mix of content worth over 6 or so developer-notebooks of scrap-data I would share. (Won't be much probably)
