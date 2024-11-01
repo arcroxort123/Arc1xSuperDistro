@@ -127,3 +127,5 @@ And that they may be stylized in that commissions, for each path used in the val
 and so that allows for "procedural crafting/item-schematic and recipie builds" to be applied.
 Now it is being set to the expected template in style of its original proof for which it is either capable or not, it will suggest the necessary requirements or ingredients of the build that are leftover, or pending until the build is completely prepared.
 It will check if the post/processing is approved and confirm construction of that proof and result the item for pickup/proof of purchase(transactions/craft)
+---
+This will also be capable of using clipping/exoclipsing from the meta-bridge and streamline that data over network or node sources.
