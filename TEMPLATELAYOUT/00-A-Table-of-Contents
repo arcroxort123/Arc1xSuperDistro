@@ -7,7 +7,7 @@
 01 SITEDESCRIPTION
 --implies a server/hardware build or auto/virtual machine to handle the following  (sets for the corebuild components as well) --(the cement gets poured out)
 02--AFTERMATH LOADOUT first legacy run 
---this allows for a FLOATPOINT/MANIFEST quantum-surface/automatic-mount/automatic-build based off a filetype host or command line read or just plain signaled as a source (bricks everything up)
+--this allows for a FLOATPOINT/MANIFEST quantum-surface/automatic-mount/automatic-build based off a filetype host or command line read or just plain signaled as a source (bricks everything up/hardens the initial builds)
 03 SUPERCAMP
 this implies a tensor/hosting service to mount an image or be receptive to image-writes (allows the bricks to be "written out on")
 04 EXPRESS BOOT BACKUPMAC
